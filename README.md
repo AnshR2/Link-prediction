@@ -11,6 +11,17 @@ Predict potential research collaborations in a co-authorship network.
 - Full dataset = 1589 nodes, 2742 edges
 - Project network = largest connected component: 379 nodes, 914 edges
 
+## Dataset source
+`data/raw/netscience.gml` is Mark Newman's original file, downloaded from his network data page:
+http://www-personal.umich.edu/~mejn/netdata/ (accessed 23 Oct 2026).
+
+Mirrors of the same network:
+- Netzschleuder: https://networks.skewed.de/net/netscience
+- SuiteSparse Matrix Collection: https://sparse.tamu.edu/Newman/netscience
+- UCINET: https://sites.google.com/site/ucinetsoftware/datasets/netscience
+
+Citation: M. E. J. Newman, "Finding community structure in networks using the eigenvectors of matrices," Physical Review E, vol. 74, 036104, 2006.
+
 ## Methods
 Common Neighbors, Jaccard Coefficient, Adamic-Adar, Preferential Attachment.
 
