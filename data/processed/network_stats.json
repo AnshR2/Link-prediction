@@ -1,0 +1,10 @@
+{
+  "full_network_nodes": 1589,
+  "full_network_edges": 2742,
+  "project_nodes": 379,
+  "project_edges": 914,
+  "connected_components_after_LCC": 1,
+  "density": 0.012759838617358406,
+  "average_degree": 4.823218997361478,
+  "average_clustering": 0.7412306142925664
+}

@@ -1,0 +1,5 @@
+Algorithm,Hits@10,Total@10,Hits@20,Total@20
+Common Neighbors,9,10,18,20
+Jaccard,6,10,6,20
+Adamic-Adar,10,10,20,20
+Preferential Attachment,0,10,0,20

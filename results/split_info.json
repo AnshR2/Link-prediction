@@ -1,0 +1,8 @@
+{
+  "random_seed": 42,
+  "original_project_edges": 914,
+  "training_edges": 731,
+  "positive_test_edges": 183,
+  "negative_test_edges": 183,
+  "negative_pairs_overlapping_hidden_edges": 0
+}

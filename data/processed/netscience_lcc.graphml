@@ -1,0 +1,2054 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="node" attr.name="degree" attr.type="long"/>
+<graph edgedefault="undirected"><node id="ABEL, H">
+  <data key="d0">3</data>
+</node>
+<node id="ABERG, Y">
+  <data key="d0">4</data>
+</node>
+<node id="ADLER, J">
+  <data key="d0">3</data>
+</node>
+<node id="AHARONY, A">
+  <data key="d0">3</data>
+</node>
+<node id="ALAVA, M">
+  <data key="d0">2</data>
+</node>
+<node id="ALBERT, I">
+  <data key="d0">2</data>
+</node>
+<node id="ALBERT, R">
+  <data key="d0">10</data>
+</node>
+<node id="ALEKSIEJUK, A">
+  <data key="d0">2</data>
+</node>
+<node id="ALLARIA, E">
+  <data key="d0">3</data>
+</node>
+<node id="ALMAAS, E">
+  <data key="d0">9</data>
+</node>
+<node id="AMANN, A">
+  <data key="d0">4</data>
+</node>
+<node id="AMARAL, L">
+  <data key="d0">12</data>
+</node>
+<node id="ANCELMEYERS, L">
+  <data key="d0">3</data>
+</node>
+<node id="ANDRADE, J">
+  <data key="d0">2</data>
+</node>
+<node id="ANTAL, T">
+  <data key="d0">1</data>
+</node>
+<node id="ARAUJO, A">
+  <data key="d0">3</data>
+</node>
+<node id="ARECCHI, F">
+  <data key="d0">6</data>
+</node>
+<node id="ARENAS, A">
+  <data key="d0">9</data>
+</node>
+<node id="AYALI, A">
+  <data key="d0">4</data>
+</node>
+<node id="BAIESI, M">
+  <data key="d0">1</data>
+</node>
+<node id="BAK, P">
+  <data key="d0">1</data>
+</node>
+<node id="BALTHROP, J">
+  <data key="d0">2</data>
+</node>
+<node id="BANAVAR, J">
+  <data key="d0">6</data>
+</node>
+<node id="BARABASI, A">
+  <data key="d0">34</data>
+</node>
+<node id="BARAHONA, M">
+  <data key="d0">1</data>
+</node>
+<node id="BARRAT, A">
+  <data key="d0">4</data>
+</node>
+<node id="BARTHELEMY, M">
+  <data key="d0">11</data>
+</node>
+<node id="BASSLER, K">
+  <data key="d0">6</data>
+</node>
+<node id="BATTISTON, S">
+  <data key="d0">5</data>
+</node>
+<node id="BEG, Q">
+  <data key="d0">3</data>
+</node>
+<node id="BENAVRAHAM, D">
+  <data key="d0">6</data>
+</node>
+<node id="BENJACOB, E">
+  <data key="d0">8</data>
+</node>
+<node id="BENNAIM, E">
+  <data key="d0">4</data>
+</node>
+<node id="BERLOW, E">
+  <data key="d0">4</data>
+</node>
+<node id="BERNARDES, A">
+  <data key="d0">4</data>
+</node>
+<node id="BIANCONI, G">
+  <data key="d0">4</data>
+</node>
+<node id="BOCCALETTI, S">
+  <data key="d0">19</data>
+</node>
+<node id="BOGUNA, M">
+  <data key="d0">6</data>
+</node>
+<node id="BONANNO, G">
+  <data key="d0">2</data>
+</node>
+<node id="BOTTACCIO, M">
+  <data key="d0">3</data>
+</node>
+<node id="BRAGARD, J">
+  <data key="d0">5</data>
+</node>
+<node id="BRODER, A">
+  <data key="d0">7</data>
+</node>
+<node id="BUCOLO, M">
+  <data key="d0">2</data>
+</node>
+<node id="BUHL, J">
+  <data key="d0">6</data>
+</node>
+<node id="CABRALES, A">
+  <data key="d0">4</data>
+</node>
+<node id="CALDARELLI, G">
+  <data key="d0">12</data>
+</node>
+<node id="CALLAWAY, D">
+  <data key="d0">5</data>
+</node>
+<node id="CAMACHO, J">
+  <data key="d0">2</data>
+</node>
+<node id="CANCHO, R">
+  <data key="d0">2</data>
+</node>
+<node id="CAPOCCI, A">
+  <data key="d0">6</data>
+</node>
+<node id="CARROLL, T">
+  <data key="d0">4</data>
+</node>
+<node id="CARUSO, F">
+  <data key="d0">3</data>
+</node>
+<node id="CASTELLANI, G">
+  <data key="d0">6</data>
+</node>
+<node id="CASTELLANO, C">
+  <data key="d0">6</data>
+</node>
+<node id="CASTRI, M">
+  <data key="d0">4</data>
+</node>
+<node id="CATANZARO, M">
+  <data key="d0">1</data>
+</node>
+<node id="CECCONI, F">
+  <data key="d0">4</data>
+</node>
+<node id="CHAKRABORTI, A">
+  <data key="d0">4</data>
+</node>
+<node id="CHATE, H">
+  <data key="d0">3</data>
+</node>
+<node id="CHAVEZ, M">
+  <data key="d0">4</data>
+</node>
+<node id="CHOI, M">
+  <data key="d0">7</data>
+</node>
+<node id="CHUNG, J">
+  <data key="d0">5</data>
+</node>
+<node id="CIEPLAK, M">
+  <data key="d0">5</data>
+</node>
+<node id="CLAUSET, A">
+  <data key="d0">2</data>
+</node>
+<node id="COCCETTI, F">
+  <data key="d0">2</data>
+</node>
+<node id="COETZEE, F">
+  <data key="d0">3</data>
+</node>
+<node id="COHEN, I">
+  <data key="d0">4</data>
+</node>
+<node id="COHEN, R">
+  <data key="d0">6</data>
+</node>
+<node id="COLAIORI, F">
+  <data key="d0">3</data>
+</node>
+<node id="CORRAL, A">
+  <data key="d0">2</data>
+</node>
+<node id="COSENZA, S">
+  <data key="d0">6</data>
+</node>
+<node id="COSTA, U">
+  <data key="d0">3</data>
+</node>
+<node id="CRUCITTI, P">
+  <data key="d0">12</data>
+</node>
+<node id="CZIROK, A">
+  <data key="d0">4</data>
+</node>
+<node id="DAFONTOURACOSTA, L">
+  <data key="d0">4</data>
+</node>
+<node id="DANON, L">
+  <data key="d0">5</data>
+</node>
+<node id="DARBYDOWMAN, K">
+  <data key="d0">1</data>
+</node>
+<node id="DASGUPTA, P">
+  <data key="d0">3</data>
+</node>
+<node id="DEARCANGELIS, L">
+  <data key="d0">1</data>
+</node>
+<node id="DEFRAYSSEIX, H">
+  <data key="d0">1</data>
+</node>
+<node id="DELOSRIOS, P">
+  <data key="d0">5</data>
+</node>
+<node id="DELUCIA, M">
+  <data key="d0">3</data>
+</node>
+<node id="DEMENEZES, M">
+  <data key="d0">3</data>
+</node>
+<node id="DEMOURA, A">
+  <data key="d0">4</data>
+</node>
+<node id="DENEUBOURG, J">
+  <data key="d0">6</data>
+</node>
+<node id="DERENYI, I">
+  <data key="d0">8</data>
+</node>
+<node id="DEZSO, Z">
+  <data key="d0">1</data>
+</node>
+<node id="DIAMBRA, L">
+  <data key="d0">1</data>
+</node>
+<node id="DIAZGUILERA, A">
+  <data key="d0">15</data>
+</node>
+<node id="DICKMAN, R">
+  <data key="d0">1</data>
+</node>
+<node id="DIGARBO, A">
+  <data key="d0">3</data>
+</node>
+<node id="DOBRIN, R">
+  <data key="d0">3</data>
+</node>
+<node id="DODDS, P">
+  <data key="d0">5</data>
+</node>
+<node id="DONETTI, L">
+  <data key="d0">1</data>
+</node>
+<node id="DOROGOVTSEV, S">
+  <data key="d0">5</data>
+</node>
+<node id="DOVIDIO, F">
+  <data key="d0">2</data>
+</node>
+<node id="DUNNE, J">
+  <data key="d0">4</data>
+</node>
+<node id="ECHENIQUE, P">
+  <data key="d0">3</data>
+</node>
+<node id="EDLING, C">
+  <data key="d0">5</data>
+</node>
+<node id="EREZ, K">
+  <data key="d0">3</data>
+</node>
+<node id="ERGUN, G">
+  <data key="d0">1</data>
+</node>
+<node id="ERIKSEN, K">
+  <data key="d0">3</data>
+</node>
+<node id="FARKAS, I">
+  <data key="d0">8</data>
+</node>
+<node id="FEDROFF, N">
+  <data key="d0">5</data>
+</node>
+<node id="FERRERICANCHO, R">
+  <data key="d0">4</data>
+</node>
+<node id="FINK, K">
+  <data key="d0">3</data>
+</node>
+<node id="FLAKE, G">
+  <data key="d0">5</data>
+</node>
+<node id="FLAMMINI, A">
+  <data key="d0">3</data>
+</node>
+<node id="FLORIA, L">
+  <data key="d0">2</data>
+</node>
+<node id="FORREST, S">
+  <data key="d0">2</data>
+</node>
+<node id="FORTUNA, L">
+  <data key="d0">8</data>
+</node>
+<node id="FORTUNATO, S">
+  <data key="d0">3</data>
+</node>
+<node id="FRANCESCHI, C">
+  <data key="d0">6</data>
+</node>
+<node id="FRASCA, M">
+  <data key="d0">7</data>
+</node>
+<node id="FRAUENFELDER, H">
+  <data key="d0">2</data>
+</node>
+<node id="FREUND, H">
+  <data key="d0">7</data>
+</node>
+<node id="FRONCZAK, A">
+  <data key="d0">4</data>
+</node>
+<node id="FRONCZAK, P">
+  <data key="d0">2</data>
+</node>
+<node id="GARCIAFERNANDEZ, J">
+  <data key="d0">2</data>
+</node>
+<node id="GARLASCHELLI, D">
+  <data key="d0">6</data>
+</node>
+<node id="GARRIDO, P">
+  <data key="d0">3</data>
+</node>
+<node id="GASTNER, M">
+  <data key="d0">1</data>
+</node>
+<node id="GAUTRAIS, J">
+  <data key="d0">6</data>
+</node>
+<node id="GHIM, C">
+  <data key="d0">3</data>
+</node>
+<node id="GHOSHAL, G">
+  <data key="d0">3</data>
+</node>
+<node id="GIACOMETTI, A">
+  <data key="d0">4</data>
+</node>
+<node id="GILES, C">
+  <data key="d0">5</data>
+</node>
+<node id="GIRALT, F">
+  <data key="d0">4</data>
+</node>
+<node id="GIRVAN, M">
+  <data key="d0">2</data>
+</node>
+<node id="GLEISER, P">
+  <data key="d0">4</data>
+</node>
+<node id="GLOVER, E">
+  <data key="d0">4</data>
+</node>
+<node id="GOH, K">
+  <data key="d0">7</data>
+</node>
+<node id="GOLDING, I">
+  <data key="d0">4</data>
+</node>
+<node id="GOLTSEV, A">
+  <data key="d0">2</data>
+</node>
+<node id="GOMEZ, J">
+  <data key="d0">2</data>
+</node>
+<node id="GOMEZGARDENES, J">
+  <data key="d0">4</data>
+</node>
+<node id="GONDRAN, B">
+  <data key="d0">2</data>
+</node>
+<node id="GONZALES, M">
+  <data key="d0">2</data>
+</node>
+<node id="GORMAN, S">
+  <data key="d0">1</data>
+</node>
+<node id="GREBOGI, C">
+  <data key="d0">2</data>
+</node>
+<node id="GREGOIRE, G">
+  <data key="d0">1</data>
+</node>
+<node id="GROSS, J">
+  <data key="d0">5</data>
+</node>
+<node id="GUARDIOLA, X">
+  <data key="d0">3</data>
+</node>
+<node id="GUICHARD, E">
+  <data key="d0">2</data>
+</node>
+<node id="GUIMERA, R">
+  <data key="d0">11</data>
+</node>
+<node id="HAMALAINEN, M">
+  <data key="d0">9</data>
+</node>
+<node id="HAN, S">
+  <data key="d0">4</data>
+</node>
+<node id="HARI, R">
+  <data key="d0">4</data>
+</node>
+<node id="HAVLIN, S">
+  <data key="d0">8</data>
+</node>
+<node id="HEAGY, J">
+  <data key="d0">2</data>
+</node>
+<node id="HENGARTNER, N">
+  <data key="d0">4</data>
+</node>
+<node id="HENTSCHEL, H">
+  <data key="d0">7</data>
+</node>
+<node id="HERRMANN, C">
+  <data key="d0">2</data>
+</node>
+<node id="HERRMANN, H">
+  <data key="d0">6</data>
+</node>
+<node id="HOLME, P">
+  <data key="d0">14</data>
+</node>
+<node id="HOLTER, N">
+  <data key="d0">5</data>
+</node>
+<node id="HOLYST, J">
+  <data key="d0">6</data>
+</node>
+<node id="HONG, D">
+  <data key="d0">2</data>
+</node>
+<node id="HONG, H">
+  <data key="d0">6</data>
+</node>
+<node id="HOPCROFT, J">
+  <data key="d0">4</data>
+</node>
+<node id="HOPPENSTEADT, F">
+  <data key="d0">4</data>
+</node>
+<node id="HUSS, M">
+  <data key="d0">2</data>
+</node>
+<node id="HWANG, D">
+  <data key="d0">6</data>
+</node>
+<node id="ILMONIEMI, R">
+  <data key="d0">4</data>
+</node>
+<node id="JANSSEN, C">
+  <data key="d0">2</data>
+</node>
+<node id="JARISARAMAKI, J">
+  <data key="d0">3</data>
+</node>
+<node id="JEDYNAK, M">
+  <data key="d0">3</data>
+</node>
+<node id="JEONG, H">
+  <data key="d0">27</data>
+</node>
+<node id="JIN, E">
+  <data key="d0">2</data>
+</node>
+<node id="JOHNSON, G">
+  <data key="d0">3</data>
+</node>
+<node id="JUNG, S">
+  <data key="d0">2</data>
+</node>
+<node id="KAHNG, B">
+  <data key="d0">14</data>
+</node>
+<node id="KALAPALA, V">
+  <data key="d0">2</data>
+</node>
+<node id="KANTO, A">
+  <data key="d0">4</data>
+</node>
+<node id="KASKI, K">
+  <data key="d0">6</data>
+</node>
+<node id="KEPLER, T">
+  <data key="d0">3</data>
+</node>
+<node id="KERTESZ, J">
+  <data key="d0">10</data>
+</node>
+<node id="KIM, B">
+  <data key="d0">10</data>
+</node>
+<node id="KIM, D">
+  <data key="d0">7</data>
+</node>
+<node id="KIM, J">
+  <data key="d0">5</data>
+</node>
+<node id="KIM, S">
+  <data key="d0">2</data>
+</node>
+<node id="KINNEY, R">
+  <data key="d0">3</data>
+</node>
+<node id="KLEINBERG, J">
+  <data key="d0">9</data>
+</node>
+<node id="KNUUTILA, J">
+  <data key="d0">4</data>
+</node>
+<node id="KOHLER, R">
+  <data key="d0">2</data>
+</node>
+<node id="KORNISS, G">
+  <data key="d0">4</data>
+</node>
+<node id="KOVACS, B">
+  <data key="d0">4</data>
+</node>
+<node id="KOZMA, B">
+  <data key="d0">4</data>
+</node>
+<node id="KRAPIVSKY, P">
+  <data key="d0">9</data>
+</node>
+<node id="KUJALA, J">
+  <data key="d0">5</data>
+</node>
+<node id="KULKARNI, R">
+  <data key="d0">3</data>
+</node>
+<node id="KUMAR, R">
+  <data key="d0">9</data>
+</node>
+<node id="KUMAR, S">
+  <data key="d0">4</data>
+</node>
+<node id="KUNTZ, P">
+  <data key="d0">7</data>
+</node>
+<node id="KURTHS, J">
+  <data key="d0">18</data>
+</node>
+<node id="LAHTINEN, J">
+  <data key="d0">2</data>
+</node>
+<node id="LAI, Y">
+  <data key="d0">7</data>
+</node>
+<node id="LAROSA, M">
+  <data key="d0">8</data>
+</node>
+<node id="LATORA, V">
+  <data key="d0">15</data>
+</node>
+<node id="LAWRENCE, S">
+  <data key="d0">6</data>
+</node>
+<node id="LEE, D">
+  <data key="d0">3</data>
+</node>
+<node id="LEICHT, E">
+  <data key="d0">2</data>
+</node>
+<node id="LEONE, M">
+  <data key="d0">3</data>
+</node>
+<node id="LEYVRAZ, F">
+  <data key="d0">2</data>
+</node>
+<node id="LILJEROS, F">
+  <data key="d0">5</data>
+</node>
+<node id="LILLO, F">
+  <data key="d0">2</data>
+</node>
+<node id="LINGJIANG, K">
+  <data key="d0">3</data>
+</node>
+<node id="LIU, Z">
+  <data key="d0">3</data>
+</node>
+<node id="LLAS, M">
+  <data key="d0">3</data>
+</node>
+<node id="LOFFREDO, M">
+  <data key="d0">1</data>
+</node>
+<node id="LOPEZRUIZ, R">
+  <data key="d0">3</data>
+</node>
+<node id="LORETO, V">
+  <data key="d0">4</data>
+</node>
+<node id="LOUIS, E">
+  <data key="d0">2</data>
+</node>
+<node id="LOUNASMAA, O">
+  <data key="d0">4</data>
+</node>
+<node id="LUSSEAU, D">
+  <data key="d0">1</data>
+</node>
+<node id="MACDONALD, P">
+  <data key="d0">2</data>
+</node>
+<node id="MAGHOUL, F">
+  <data key="d0">7</data>
+</node>
+<node id="MAKSE, H">
+  <data key="d0">2</data>
+</node>
+<node id="MANCINI, H">
+  <data key="d0">9</data>
+</node>
+<node id="MANTEGNA, R">
+  <data key="d0">3</data>
+</node>
+<node id="MARCHIORI, M">
+  <data key="d0">9</data>
+</node>
+<node id="MARITAN, A">
+  <data key="d0">12</data>
+</node>
+<node id="MARODI, M">
+  <data key="d0">2</data>
+</node>
+<node id="MARRO, J">
+  <data key="d0">4</data>
+</node>
+<node id="MARTIN, M">
+  <data key="d0">3</data>
+</node>
+<node id="MARTINEZ, N">
+  <data key="d0">4</data>
+</node>
+<node id="MASLOV, S">
+  <data key="d0">4</data>
+</node>
+<node id="MASON, S">
+  <data key="d0">3</data>
+</node>
+<node id="MATTHEWS, P">
+  <data key="d0">2</data>
+</node>
+<node id="MAZA, D">
+  <data key="d0">5</data>
+</node>
+<node id="MENDES, J">
+  <data key="d0">3</data>
+</node>
+<node id="MENDOZA, C">
+  <data key="d0">4</data>
+</node>
+<node id="MEUCCI, R">
+  <data key="d0">3</data>
+</node>
+<node id="MEYERORTMANNS, H">
+  <data key="d0">1</data>
+</node>
+<node id="MINNHAGEN, P">
+  <data key="d0">7</data>
+</node>
+<node id="MIROLLO, R">
+  <data key="d0">2</data>
+</node>
+<node id="MITRA, M">
+  <data key="d0">5</data>
+</node>
+<node id="MONGRU, D">
+  <data key="d0">4</data>
+</node>
+<node id="MONTOYA, J">
+  <data key="d0">1</data>
+</node>
+<node id="MONTUORI, M">
+  <data key="d0">3</data>
+</node>
+<node id="MOORE, C">
+  <data key="d0">6</data>
+</node>
+<node id="MOREIRA, A">
+  <data key="d0">2</data>
+</node>
+<node id="MORENO, Y">
+  <data key="d0">14</data>
+</node>
+<node id="MOSSA, S">
+  <data key="d0">5</data>
+</node>
+<node id="MOTTER, A">
+  <data key="d0">8</data>
+</node>
+<node id="MOUKARZEL, C">
+  <data key="d0">2</data>
+</node>
+<node id="MUCHA, P">
+  <data key="d0">3</data>
+</node>
+<node id="MUHAMAD, R">
+  <data key="d0">2</data>
+</node>
+<node id="MUNOZ, M">
+  <data key="d0">7</data>
+</node>
+<node id="MUREN, L">
+  <data key="d0">3</data>
+</node>
+<node id="NAKARADO, G">
+  <data key="d0">2</data>
+</node>
+<node id="NEDA, Z">
+  <data key="d0">8</data>
+</node>
+<node id="NEKOVEE, M">
+  <data key="d0">3</data>
+</node>
+<node id="NEWMAN, M">
+  <data key="d0">27</data>
+</node>
+<node id="NISHIKAWA, T">
+  <data key="d0">3</data>
+</node>
+<node id="OH, E">
+  <data key="d0">6</data>
+</node>
+<node id="OLTVAI, Z">
+  <data key="d0">21</data>
+</node>
+<node id="ONNELA, J">
+  <data key="d0">5</data>
+</node>
+<node id="OSIPOV, G">
+  <data key="d0">6</data>
+</node>
+<node id="PACHECO, A">
+  <data key="d0">4</data>
+</node>
+<node id="PACZUSKI, M">
+  <data key="d0">3</data>
+</node>
+<node id="PARISI, D">
+  <data key="d0">4</data>
+</node>
+<node id="PARK, E">
+  <data key="d0">3</data>
+</node>
+<node id="PARK, H">
+  <data key="d0">3</data>
+</node>
+<node id="PARK, J">
+  <data key="d0">1</data>
+</node>
+<node id="PARK, Y">
+  <data key="d0">2</data>
+</node>
+<node id="PASTORSATORRAS, R">
+  <data key="d0">15</data>
+</node>
+<node id="PECORA, L">
+  <data key="d0">7</data>
+</node>
+<node id="PELAEZ, A">
+  <data key="d0">2</data>
+</node>
+<node id="PENNA, T">
+  <data key="d0">2</data>
+</node>
+<node id="PENNOCK, D">
+  <data key="d0">4</data>
+</node>
+<node id="PEREZ, C">
+  <data key="d0">3</data>
+</node>
+<node id="PETERMANNN, T">
+  <data key="d0">1</data>
+</node>
+<node id="PIETRONERO, L">
+  <data key="d0">5</data>
+</node>
+<node id="PIKOVSKY, A">
+  <data key="d0">10</data>
+</node>
+<node id="PLUCHINO, A">
+  <data key="d0">2</data>
+</node>
+<node id="PODANI, J">
+  <data key="d0">5</data>
+</node>
+<node id="PORTA, S">
+  <data key="d0">2</data>
+</node>
+<node id="PORTER, M">
+  <data key="d0">3</data>
+</node>
+<node id="PROVERO, P">
+  <data key="d0">2</data>
+</node>
+<node id="RADICCHI, F">
+  <data key="d0">4</data>
+</node>
+<node id="RAGHAVAN, P">
+  <data key="d0">11</data>
+</node>
+<node id="RAJAGOPALAN, S">
+  <data key="d0">11</data>
+</node>
+<node id="RAMASCO, J">
+  <data key="d0">2</data>
+</node>
+<node id="RAPISARDA, A">
+  <data key="d0">6</data>
+</node>
+<node id="RAVASZ, E">
+  <data key="d0">10</data>
+</node>
+<node id="REDNER, S">
+  <data key="d0">8</data>
+</node>
+<node id="REMONDINI, D">
+  <data key="d0">6</data>
+</node>
+<node id="RHO, K">
+  <data key="d0">4</data>
+</node>
+<node id="RIGON, R">
+  <data key="d0">4</data>
+</node>
+<node id="RINALDO, A">
+  <data key="d0">5</data>
+</node>
+<node id="RODGERS, G">
+  <data key="d0">6</data>
+</node>
+<node id="RODRIGUEZITURBE, I">
+  <data key="d0">4</data>
+</node>
+<node id="ROSENBLUM, M">
+  <data key="d0">12</data>
+</node>
+<node id="ROSVALL, M">
+  <data key="d0">3</data>
+</node>
+<node id="ROTHMAN, D">
+  <data key="d0">1</data>
+</node>
+<node id="ROUX, S">
+  <data key="d0">1</data>
+</node>
+<node id="ROZENFELD, A">
+  <data key="d0">3</data>
+</node>
+<node id="RUBI, M">
+  <data key="d0">2</data>
+</node>
+<node id="RUDZICK, O">
+  <data key="d0">2</data>
+</node>
+<node id="SABEL, C">
+  <data key="d0">2</data>
+</node>
+<node id="SALAZARCIUDAD, I">
+  <data key="d0">2</data>
+</node>
+<node id="SALMELIN, R">
+  <data key="d0">5</data>
+</node>
+<node id="SAMUKHIN, A">
+  <data key="d0">2</data>
+</node>
+<node id="SANWALANI, V">
+  <data key="d0">2</data>
+</node>
+<node id="SCALA, A">
+  <data key="d0">3</data>
+</node>
+<node id="SCHAFER, C">
+  <data key="d0">3</data>
+</node>
+<node id="SCHNITZLER, A">
+  <data key="d0">12</data>
+</node>
+<node id="SCHRAG, S">
+  <data key="d0">3</data>
+</node>
+<node id="SCHUBERT, A">
+  <data key="d0">8</data>
+</node>
+<node id="SCHWARTZ, N">
+  <data key="d0">4</data>
+</node>
+<node id="SEGEV, R">
+  <data key="d0">4</data>
+</node>
+<node id="SERVEDIO, V">
+  <data key="d0">6</data>
+</node>
+<node id="SHEFI, O">
+  <data key="d0">4</data>
+</node>
+<node id="SHOCHET, O">
+  <data key="d0">4</data>
+</node>
+<node id="SIENKIEWICZ, J">
+  <data key="d0">3</data>
+</node>
+<node id="SIMONSEN, I">
+  <data key="d0">3</data>
+</node>
+<node id="SIVAKUMAR, D">
+  <data key="d0">5</data>
+</node>
+<node id="SMITH, E">
+  <data key="d0">3</data>
+</node>
+<node id="SNEPPEN, K">
+  <data key="d0">9</data>
+</node>
+<node id="SOFFER, S">
+  <data key="d0">1</data>
+</node>
+<node id="SOLE, R">
+  <data key="d0">17</data>
+</node>
+<node id="SOMERA, A">
+  <data key="d0">4</data>
+</node>
+<node id="SONG, C">
+  <data key="d0">2</data>
+</node>
+<node id="SOUSA, A">
+  <data key="d0">5</data>
+</node>
+<node id="SPATA, A">
+  <data key="d0">3</data>
+</node>
+<node id="STAGNI, C">
+  <data key="d0">6</data>
+</node>
+<node id="STANLEY, H">
+  <data key="d0">10</data>
+</node>
+<node id="STATA, R">
+  <data key="d0">7</data>
+</node>
+<node id="STAUFFER, D">
+  <data key="d0">12</data>
+</node>
+<node id="STROGATZ, S">
+  <data key="d0">8</data>
+</node>
+<node id="STROUD, D">
+  <data key="d0">2</data>
+</node>
+<node id="SZABO, G">
+  <data key="d0">2</data>
+</node>
+<node id="SZATHMARY, E">
+  <data key="d0">5</data>
+</node>
+<node id="TADIC, B">
+  <data key="d0">5</data>
+</node>
+<node id="TASS, P">
+  <data key="d0">7</data>
+</node>
+<node id="THERAULAZ, G">
+  <data key="d0">6</data>
+</node>
+<node id="THURNER, S">
+  <data key="d0">2</data>
+</node>
+<node id="TIERI, P">
+  <data key="d0">6</data>
+</node>
+<node id="TIMMERMANN, L">
+  <data key="d0">5</data>
+</node>
+<node id="TOMBOR, B">
+  <data key="d0">6</data>
+</node>
+<node id="TOMKINS, A">
+  <data key="d0">11</data>
+</node>
+<node id="TOROCZKAI, Z">
+  <data key="d0">6</data>
+</node>
+<node id="TORRES, J">
+  <data key="d0">3</data>
+</node>
+<node id="TRUSINA, A">
+  <data key="d0">7</data>
+</node>
+<node id="TU, Y">
+  <data key="d0">3</data>
+</node>
+<node id="TURTSCHI, A">
+  <data key="d0">3</data>
+</node>
+<node id="UPFAL, E">
+  <data key="d0">5</data>
+</node>
+<node id="USAI, L">
+  <data key="d0">6</data>
+</node>
+<node id="VALENSIN, S">
+  <data key="d0">6</data>
+</node>
+<node id="VALLADARES, D">
+  <data key="d0">6</data>
+</node>
+<node id="VALLONE, A">
+  <data key="d0">3</data>
+</node>
+<node id="VALVERDE, S">
+  <data key="d0">8</data>
+</node>
+<node id="VANNUCCHI, F">
+  <data key="d0">1</data>
+</node>
+<node id="VAZQUEZ, A">
+  <data key="d0">12</data>
+</node>
+<node id="VAZQUEZ, F">
+  <data key="d0">2</data>
+</node>
+<node id="VAZQUEZPRADA, M">
+  <data key="d0">2</data>
+</node>
+<node id="VEGAREDONDO, F">
+  <data key="d0">4</data>
+</node>
+<node id="VESPIGNANI, A">
+  <data key="d0">14</data>
+</node>
+<node id="VICSEK, T">
+  <data key="d0">16</data>
+</node>
+<node id="VILONE, D">
+  <data key="d0">2</data>
+</node>
+<node id="VOLKMANN, J">
+  <data key="d0">7</data>
+</node>
+<node id="VRAGOVIC, I">
+  <data key="d0">2</data>
+</node>
+<node id="WARMBRAND, C">
+  <data key="d0">3</data>
+</node>
+<node id="WATTS, D">
+  <data key="d0">7</data>
+</node>
+<node id="WEIGT, M">
+  <data key="d0">2</data>
+</node>
+<node id="WEULE, M">
+  <data key="d0">7</data>
+</node>
+<node id="WIENER, J">
+  <data key="d0">7</data>
+</node>
+<node id="WILLIAMS, R">
+  <data key="d0">4</data>
+</node>
+<node id="WUCHTY, S">
+  <data key="d0">2</data>
+</node>
+<node id="YE, N">
+  <data key="d0">2</data>
+</node>
+<node id="YEUNG, M">
+  <data key="d0">1</data>
+</node>
+<node id="YOOK, S">
+  <data key="d0">4</data>
+</node>
+<node id="YOON, C">
+  <data key="d0">4</data>
+</node>
+<node id="YUSONG, T">
+  <data key="d0">3</data>
+</node>
+<node id="ZAKS, M">
+  <data key="d0">3</data>
+</node>
+<node id="ZALIZNYAK, A">
+  <data key="d0">2</data>
+</node>
+<node id="ZECCHINA, R">
+  <data key="d0">3</data>
+</node>
+<node id="ZHOU, C">
+  <data key="d0">5</data>
+</node>
+<edge source="ABEL, H" target="KURTHS, J"/>
+<edge source="ABEL, H" target="ROSENBLUM, M"/>
+<edge source="ABEL, H" target="SCHAFER, C"/>
+<edge source="ABERG, Y" target="AMARAL, L"/>
+<edge source="ABERG, Y" target="EDLING, C"/>
+<edge source="ABERG, Y" target="LILJEROS, F"/>
+<edge source="ABERG, Y" target="STANLEY, H"/>
+<edge source="ADLER, J" target="AHARONY, A"/>
+<edge source="ADLER, J" target="DAFONTOURACOSTA, L"/>
+<edge source="ADLER, J" target="STAUFFER, D"/>
+<edge source="AHARONY, A" target="DAFONTOURACOSTA, L"/>
+<edge source="AHARONY, A" target="STAUFFER, D"/>
+<edge source="ALAVA, M" target="KERTESZ, J"/>
+<edge source="ALAVA, M" target="SZABO, G"/>
+<edge source="ALBERT, I" target="ALBERT, R"/>
+<edge source="ALBERT, I" target="NAKARADO, G"/>
+<edge source="ALBERT, R" target="BARABASI, A"/>
+<edge source="ALBERT, R" target="BIANCONI, G"/>
+<edge source="ALBERT, R" target="CRUCITTI, P"/>
+<edge source="ALBERT, R" target="JEONG, H"/>
+<edge source="ALBERT, R" target="KINNEY, R"/>
+<edge source="ALBERT, R" target="LATORA, V"/>
+<edge source="ALBERT, R" target="NAKARADO, G"/>
+<edge source="ALBERT, R" target="OLTVAI, Z"/>
+<edge source="ALBERT, R" target="TOMBOR, B"/>
+<edge source="ALEKSIEJUK, A" target="HOLYST, J"/>
+<edge source="ALEKSIEJUK, A" target="STAUFFER, D"/>
+<edge source="ALLARIA, E" target="ARECCHI, F"/>
+<edge source="ALLARIA, E" target="DIGARBO, A"/>
+<edge source="ALLARIA, E" target="MEUCCI, R"/>
+<edge source="ALMAAS, E" target="BARABASI, A"/>
+<edge source="ALMAAS, E" target="KOVACS, B"/>
+<edge source="ALMAAS, E" target="KRAPIVSKY, P"/>
+<edge source="ALMAAS, E" target="KULKARNI, R"/>
+<edge source="ALMAAS, E" target="MACDONALD, P"/>
+<edge source="ALMAAS, E" target="OLTVAI, Z"/>
+<edge source="ALMAAS, E" target="REDNER, S"/>
+<edge source="ALMAAS, E" target="STROUD, D"/>
+<edge source="ALMAAS, E" target="VICSEK, T"/>
+<edge source="AMANN, A" target="BOCCALETTI, S"/>
+<edge source="AMANN, A" target="CHAVEZ, M"/>
+<edge source="AMANN, A" target="HENTSCHEL, H"/>
+<edge source="AMANN, A" target="HWANG, D"/>
+<edge source="AMARAL, L" target="ANDRADE, J"/>
+<edge source="AMARAL, L" target="BARTHELEMY, M"/>
+<edge source="AMARAL, L" target="CAMACHO, J"/>
+<edge source="AMARAL, L" target="EDLING, C"/>
+<edge source="AMARAL, L" target="GUIMERA, R"/>
+<edge source="AMARAL, L" target="LILJEROS, F"/>
+<edge source="AMARAL, L" target="MOREIRA, A"/>
+<edge source="AMARAL, L" target="MOSSA, S"/>
+<edge source="AMARAL, L" target="SCALA, A"/>
+<edge source="AMARAL, L" target="STANLEY, H"/>
+<edge source="AMARAL, L" target="TURTSCHI, A"/>
+<edge source="ANCELMEYERS, L" target="MARTIN, M"/>
+<edge source="ANCELMEYERS, L" target="NEWMAN, M"/>
+<edge source="ANCELMEYERS, L" target="SCHRAG, S"/>
+<edge source="ANDRADE, J" target="MOREIRA, A"/>
+<edge source="ANTAL, T" target="KRAPIVSKY, P"/>
+<edge source="ARAUJO, A" target="BERNARDES, A"/>
+<edge source="ARAUJO, A" target="COSTA, U"/>
+<edge source="ARAUJO, A" target="STAUFFER, D"/>
+<edge source="ARECCHI, F" target="BOCCALETTI, S"/>
+<edge source="ARECCHI, F" target="BRAGARD, J"/>
+<edge source="ARECCHI, F" target="DIGARBO, A"/>
+<edge source="ARECCHI, F" target="MANCINI, H"/>
+<edge source="ARECCHI, F" target="MEUCCI, R"/>
+<edge source="ARENAS, A" target="BOGUNA, M"/>
+<edge source="ARENAS, A" target="CABRALES, A"/>
+<edge source="ARENAS, A" target="DANON, L"/>
+<edge source="ARENAS, A" target="DIAZGUILERA, A"/>
+<edge source="ARENAS, A" target="GIRALT, F"/>
+<edge source="ARENAS, A" target="GLEISER, P"/>
+<edge source="ARENAS, A" target="GUIMERA, R"/>
+<edge source="ARENAS, A" target="PASTORSATORRAS, R"/>
+<edge source="ARENAS, A" target="VEGAREDONDO, F"/>
+<edge source="AYALI, A" target="BENJACOB, E"/>
+<edge source="AYALI, A" target="GOLDING, I"/>
+<edge source="AYALI, A" target="SEGEV, R"/>
+<edge source="AYALI, A" target="SHEFI, O"/>
+<edge source="BAIESI, M" target="PACZUSKI, M"/>
+<edge source="BAK, P" target="SNEPPEN, K"/>
+<edge source="BALTHROP, J" target="FORREST, S"/>
+<edge source="BALTHROP, J" target="NEWMAN, M"/>
+<edge source="BANAVAR, J" target="CIEPLAK, M"/>
+<edge source="BANAVAR, J" target="FEDROFF, N"/>
+<edge source="BANAVAR, J" target="HOLTER, N"/>
+<edge source="BANAVAR, J" target="MARITAN, A"/>
+<edge source="BANAVAR, J" target="MITRA, M"/>
+<edge source="BANAVAR, J" target="RINALDO, A"/>
+<edge source="BARABASI, A" target="BEG, Q"/>
+<edge source="BARABASI, A" target="BENAVRAHAM, D"/>
+<edge source="BARABASI, A" target="BERLOW, E"/>
+<edge source="BARABASI, A" target="BIANCONI, G"/>
+<edge source="BARABASI, A" target="COHEN, R"/>
+<edge source="BARABASI, A" target="DEMENEZES, M"/>
+<edge source="BARABASI, A" target="DERENYI, I"/>
+<edge source="BARABASI, A" target="DEZSO, Z"/>
+<edge source="BARABASI, A" target="DOBRIN, R"/>
+<edge source="BARABASI, A" target="DUNNE, J"/>
+<edge source="BARABASI, A" target="FARKAS, I"/>
+<edge source="BARABASI, A" target="HAVLIN, S"/>
+<edge source="BARABASI, A" target="JEONG, H"/>
+<edge source="BARABASI, A" target="KOVACS, B"/>
+<edge source="BARABASI, A" target="MACDONALD, P"/>
+<edge source="BARABASI, A" target="MARTINEZ, N"/>
+<edge source="BARABASI, A" target="MASON, S"/>
+<edge source="BARABASI, A" target="MONGRU, D"/>
+<edge source="BARABASI, A" target="NEDA, Z"/>
+<edge source="BARABASI, A" target="OLTVAI, Z"/>
+<edge source="BARABASI, A" target="PODANI, J"/>
+<edge source="BARABASI, A" target="RAVASZ, E"/>
+<edge source="BARABASI, A" target="SCHUBERT, A"/>
+<edge source="BARABASI, A" target="SCHWARTZ, N"/>
+<edge source="BARABASI, A" target="SOMERA, A"/>
+<edge source="BARABASI, A" target="SZATHMARY, E"/>
+<edge source="BARABASI, A" target="TOMBOR, B"/>
+<edge source="BARABASI, A" target="TU, Y"/>
+<edge source="BARABASI, A" target="VICSEK, T"/>
+<edge source="BARABASI, A" target="WILLIAMS, R"/>
+<edge source="BARABASI, A" target="WUCHTY, S"/>
+<edge source="BARABASI, A" target="YOOK, S"/>
+<edge source="BARAHONA, M" target="PECORA, L"/>
+<edge source="BARRAT, A" target="BARTHELEMY, M"/>
+<edge source="BARRAT, A" target="PASTORSATORRAS, R"/>
+<edge source="BARRAT, A" target="VESPIGNANI, A"/>
+<edge source="BARRAT, A" target="WEIGT, M"/>
+<edge source="BARTHELEMY, M" target="GONDRAN, B"/>
+<edge source="BARTHELEMY, M" target="GUICHARD, E"/>
+<edge source="BARTHELEMY, M" target="HERRMANN, C"/>
+<edge source="BARTHELEMY, M" target="MOSSA, S"/>
+<edge source="BARTHELEMY, M" target="PASTORSATORRAS, R"/>
+<edge source="BARTHELEMY, M" target="PROVERO, P"/>
+<edge source="BARTHELEMY, M" target="SCALA, A"/>
+<edge source="BARTHELEMY, M" target="STANLEY, H"/>
+<edge source="BARTHELEMY, M" target="VESPIGNANI, A"/>
+<edge source="BASSLER, K" target="CORRAL, A"/>
+<edge source="BASSLER, K" target="HENGARTNER, N"/>
+<edge source="BASSLER, K" target="KORNISS, G"/>
+<edge source="BASSLER, K" target="KOZMA, B"/>
+<edge source="BASSLER, K" target="PACZUSKI, M"/>
+<edge source="BASSLER, K" target="TOROCZKAI, Z"/>
+<edge source="BATTISTON, S" target="CALDARELLI, G"/>
+<edge source="BATTISTON, S" target="CASTRI, M"/>
+<edge source="BATTISTON, S" target="CATANZARO, M"/>
+<edge source="BATTISTON, S" target="GARLASCHELLI, D"/>
+<edge source="BATTISTON, S" target="SERVEDIO, V"/>
+<edge source="BEG, Q" target="DOBRIN, R"/>
+<edge source="BEG, Q" target="OLTVAI, Z"/>
+<edge source="BENAVRAHAM, D" target="COHEN, R"/>
+<edge source="BENAVRAHAM, D" target="EREZ, K"/>
+<edge source="BENAVRAHAM, D" target="HAVLIN, S"/>
+<edge source="BENAVRAHAM, D" target="ROZENFELD, A"/>
+<edge source="BENAVRAHAM, D" target="SCHWARTZ, N"/>
+<edge source="BENJACOB, E" target="COHEN, I"/>
+<edge source="BENJACOB, E" target="CZIROK, A"/>
+<edge source="BENJACOB, E" target="GOLDING, I"/>
+<edge source="BENJACOB, E" target="SEGEV, R"/>
+<edge source="BENJACOB, E" target="SHEFI, O"/>
+<edge source="BENJACOB, E" target="SHOCHET, O"/>
+<edge source="BENJACOB, E" target="VICSEK, T"/>
+<edge source="BENNAIM, E" target="FRAUENFELDER, H"/>
+<edge source="BENNAIM, E" target="KRAPIVSKY, P"/>
+<edge source="BENNAIM, E" target="REDNER, S"/>
+<edge source="BENNAIM, E" target="TOROCZKAI, Z"/>
+<edge source="BERLOW, E" target="DUNNE, J"/>
+<edge source="BERLOW, E" target="MARTINEZ, N"/>
+<edge source="BERLOW, E" target="WILLIAMS, R"/>
+<edge source="BERNARDES, A" target="COSTA, U"/>
+<edge source="BERNARDES, A" target="KERTESZ, J"/>
+<edge source="BERNARDES, A" target="STAUFFER, D"/>
+<edge source="BIANCONI, G" target="CAPOCCI, A"/>
+<edge source="BIANCONI, G" target="JEONG, H"/>
+<edge source="BOCCALETTI, S" target="BRAGARD, J"/>
+<edge source="BOCCALETTI, S" target="CHAVEZ, M"/>
+<edge source="BOCCALETTI, S" target="HENTSCHEL, H"/>
+<edge source="BOCCALETTI, S" target="HWANG, D"/>
+<edge source="BOCCALETTI, S" target="KURTHS, J"/>
+<edge source="BOCCALETTI, S" target="LOPEZRUIZ, R"/>
+<edge source="BOCCALETTI, S" target="MANCINI, H"/>
+<edge source="BOCCALETTI, S" target="MAZA, D"/>
+<edge source="BOCCALETTI, S" target="MENDOZA, C"/>
+<edge source="BOCCALETTI, S" target="MORENO, Y"/>
+<edge source="BOCCALETTI, S" target="OSIPOV, G"/>
+<edge source="BOCCALETTI, S" target="PECORA, L"/>
+<edge source="BOCCALETTI, S" target="PELAEZ, A"/>
+<edge source="BOCCALETTI, S" target="VALLADARES, D"/>
+<edge source="BOCCALETTI, S" target="VALLONE, A"/>
+<edge source="BOCCALETTI, S" target="VANNUCCHI, F"/>
+<edge source="BOCCALETTI, S" target="ZHOU, C"/>
+<edge source="BOGUNA, M" target="DIAZGUILERA, A"/>
+<edge source="BOGUNA, M" target="MORENO, Y"/>
+<edge source="BOGUNA, M" target="PASTORSATORRAS, R"/>
+<edge source="BOGUNA, M" target="VAZQUEZ, A"/>
+<edge source="BOGUNA, M" target="VESPIGNANI, A"/>
+<edge source="BONANNO, G" target="LILLO, F"/>
+<edge source="BONANNO, G" target="MANTEGNA, R"/>
+<edge source="BOTTACCIO, M" target="DELUCIA, M"/>
+<edge source="BOTTACCIO, M" target="MONTUORI, M"/>
+<edge source="BOTTACCIO, M" target="PIETRONERO, L"/>
+<edge source="BRAGARD, J" target="HENTSCHEL, H"/>
+<edge source="BRAGARD, J" target="MANCINI, H"/>
+<edge source="BRAGARD, J" target="MENDOZA, C"/>
+<edge source="BRODER, A" target="KUMAR, R"/>
+<edge source="BRODER, A" target="MAGHOUL, F"/>
+<edge source="BRODER, A" target="RAGHAVAN, P"/>
+<edge source="BRODER, A" target="RAJAGOPALAN, S"/>
+<edge source="BRODER, A" target="STATA, R"/>
+<edge source="BRODER, A" target="TOMKINS, A"/>
+<edge source="BRODER, A" target="WIENER, J"/>
+<edge source="BUCOLO, M" target="FORTUNA, L"/>
+<edge source="BUCOLO, M" target="LAROSA, M"/>
+<edge source="BUHL, J" target="DENEUBOURG, J"/>
+<edge source="BUHL, J" target="GAUTRAIS, J"/>
+<edge source="BUHL, J" target="KUNTZ, P"/>
+<edge source="BUHL, J" target="SOLE, R"/>
+<edge source="BUHL, J" target="THERAULAZ, G"/>
+<edge source="BUHL, J" target="VALVERDE, S"/>
+<edge source="CABRALES, A" target="DIAZGUILERA, A"/>
+<edge source="CABRALES, A" target="GUIMERA, R"/>
+<edge source="CABRALES, A" target="VEGAREDONDO, F"/>
+<edge source="CALDARELLI, G" target="CAPOCCI, A"/>
+<edge source="CALDARELLI, G" target="CASTRI, M"/>
+<edge source="CALDARELLI, G" target="COCCETTI, F"/>
+<edge source="CALDARELLI, G" target="COLAIORI, F"/>
+<edge source="CALDARELLI, G" target="DELOSRIOS, P"/>
+<edge source="CALDARELLI, G" target="GARLASCHELLI, D"/>
+<edge source="CALDARELLI, G" target="MUNOZ, M"/>
+<edge source="CALDARELLI, G" target="PASTORSATORRAS, R"/>
+<edge source="CALDARELLI, G" target="PIETRONERO, L"/>
+<edge source="CALDARELLI, G" target="SERVEDIO, V"/>
+<edge source="CALDARELLI, G" target="VESPIGNANI, A"/>
+<edge source="CALLAWAY, D" target="HOPCROFT, J"/>
+<edge source="CALLAWAY, D" target="KLEINBERG, J"/>
+<edge source="CALLAWAY, D" target="NEWMAN, M"/>
+<edge source="CALLAWAY, D" target="STROGATZ, S"/>
+<edge source="CALLAWAY, D" target="WATTS, D"/>
+<edge source="CAMACHO, J" target="GUIMERA, R"/>
+<edge source="CANCHO, R" target="SOLE, R"/>
+<edge source="CANCHO, R" target="VALVERDE, S"/>
+<edge source="CAPOCCI, A" target="COLAIORI, F"/>
+<edge source="CAPOCCI, A" target="DELOSRIOS, P"/>
+<edge source="CAPOCCI, A" target="MUNOZ, M"/>
+<edge source="CAPOCCI, A" target="SERVEDIO, V"/>
+<edge source="CARROLL, T" target="FINK, K"/>
+<edge source="CARROLL, T" target="HEAGY, J"/>
+<edge source="CARROLL, T" target="JOHNSON, G"/>
+<edge source="CARROLL, T" target="PECORA, L"/>
+<edge source="CARUSO, F" target="LATORA, V"/>
+<edge source="CARUSO, F" target="RAPISARDA, A"/>
+<edge source="CARUSO, F" target="TADIC, B"/>
+<edge source="CASTELLANI, G" target="FRANCESCHI, C"/>
+<edge source="CASTELLANI, G" target="LATORA, V"/>
+<edge source="CASTELLANI, G" target="MARCHIORI, M"/>
+<edge source="CASTELLANI, G" target="REMONDINI, D"/>
+<edge source="CASTELLANI, G" target="TIERI, P"/>
+<edge source="CASTELLANI, G" target="VALENSIN, S"/>
+<edge source="CASTELLANO, C" target="CECCONI, F"/>
+<edge source="CASTELLANO, C" target="LORETO, V"/>
+<edge source="CASTELLANO, C" target="PARISI, D"/>
+<edge source="CASTELLANO, C" target="RADICCHI, F"/>
+<edge source="CASTELLANO, C" target="VESPIGNANI, A"/>
+<edge source="CASTELLANO, C" target="VILONE, D"/>
+<edge source="CASTRI, M" target="GARLASCHELLI, D"/>
+<edge source="CASTRI, M" target="SERVEDIO, V"/>
+<edge source="CECCONI, F" target="LORETO, V"/>
+<edge source="CECCONI, F" target="PARISI, D"/>
+<edge source="CECCONI, F" target="RADICCHI, F"/>
+<edge source="CHAKRABORTI, A" target="KANTO, A"/>
+<edge source="CHAKRABORTI, A" target="KASKI, K"/>
+<edge source="CHAKRABORTI, A" target="KERTESZ, J"/>
+<edge source="CHAKRABORTI, A" target="ONNELA, J"/>
+<edge source="CHATE, H" target="GREGOIRE, G"/>
+<edge source="CHATE, H" target="PIKOVSKY, A"/>
+<edge source="CHATE, H" target="RUDZICK, O"/>
+<edge source="CHAVEZ, M" target="HENTSCHEL, H"/>
+<edge source="CHAVEZ, M" target="HWANG, D"/>
+<edge source="CHOI, M" target="CHUNG, J"/>
+<edge source="CHOI, M" target="HOLME, P"/>
+<edge source="CHOI, M" target="HONG, H"/>
+<edge source="CHOI, M" target="KIM, B"/>
+<edge source="CHOI, M" target="MINNHAGEN, P"/>
+<edge source="CHOI, M" target="PARK, H"/>
+<edge source="CHOI, M" target="TRUSINA, A"/>
+<edge source="CHUNG, J" target="HOLME, P"/>
+<edge source="CHUNG, J" target="KIM, B"/>
+<edge source="CHUNG, J" target="MINNHAGEN, P"/>
+<edge source="CHUNG, J" target="TRUSINA, A"/>
+<edge source="CIEPLAK, M" target="FEDROFF, N"/>
+<edge source="CIEPLAK, M" target="HOLTER, N"/>
+<edge source="CIEPLAK, M" target="MARITAN, A"/>
+<edge source="CIEPLAK, M" target="MITRA, M"/>
+<edge source="CLAUSET, A" target="MOORE, C"/>
+<edge source="CLAUSET, A" target="NEWMAN, M"/>
+<edge source="COCCETTI, F" target="DELOSRIOS, P"/>
+<edge source="COETZEE, F" target="FLAKE, G"/>
+<edge source="COETZEE, F" target="GILES, C"/>
+<edge source="COETZEE, F" target="LAWRENCE, S"/>
+<edge source="COHEN, I" target="CZIROK, A"/>
+<edge source="COHEN, I" target="SHOCHET, O"/>
+<edge source="COHEN, I" target="VICSEK, T"/>
+<edge source="COHEN, R" target="EREZ, K"/>
+<edge source="COHEN, R" target="HAVLIN, S"/>
+<edge source="COHEN, R" target="ROZENFELD, A"/>
+<edge source="COHEN, R" target="SCHWARTZ, N"/>
+<edge source="COLAIORI, F" target="SERVEDIO, V"/>
+<edge source="CORRAL, A" target="PACZUSKI, M"/>
+<edge source="COSENZA, S" target="CRUCITTI, P"/>
+<edge source="COSENZA, S" target="FORTUNA, L"/>
+<edge source="COSENZA, S" target="FRASCA, M"/>
+<edge source="COSENZA, S" target="LAROSA, M"/>
+<edge source="COSENZA, S" target="STAGNI, C"/>
+<edge source="COSENZA, S" target="USAI, L"/>
+<edge source="COSTA, U" target="STAUFFER, D"/>
+<edge source="CRUCITTI, P" target="FORTUNA, L"/>
+<edge source="CRUCITTI, P" target="FRASCA, M"/>
+<edge source="CRUCITTI, P" target="KINNEY, R"/>
+<edge source="CRUCITTI, P" target="LAROSA, M"/>
+<edge source="CRUCITTI, P" target="LATORA, V"/>
+<edge source="CRUCITTI, P" target="MARCHIORI, M"/>
+<edge source="CRUCITTI, P" target="PORTA, S"/>
+<edge source="CRUCITTI, P" target="RAPISARDA, A"/>
+<edge source="CRUCITTI, P" target="STAGNI, C"/>
+<edge source="CRUCITTI, P" target="USAI, L"/>
+<edge source="CZIROK, A" target="SHOCHET, O"/>
+<edge source="CZIROK, A" target="VICSEK, T"/>
+<edge source="DAFONTOURACOSTA, L" target="DIAMBRA, L"/>
+<edge source="DAFONTOURACOSTA, L" target="STAUFFER, D"/>
+<edge source="DANON, L" target="DIAZGUILERA, A"/>
+<edge source="DANON, L" target="GIRALT, F"/>
+<edge source="DANON, L" target="GLEISER, P"/>
+<edge source="DANON, L" target="GUIMERA, R"/>
+<edge source="DARBYDOWMAN, K" target="RODGERS, G"/>
+<edge source="DASGUPTA, P" target="DEMOURA, A"/>
+<edge source="DASGUPTA, P" target="LAI, Y"/>
+<edge source="DASGUPTA, P" target="MOTTER, A"/>
+<edge source="DEARCANGELIS, L" target="HERRMANN, H"/>
+<edge source="DEFRAYSSEIX, H" target="KUNTZ, P"/>
+<edge source="DELOSRIOS, P" target="MUNOZ, M"/>
+<edge source="DELOSRIOS, P" target="PETERMANNN, T"/>
+<edge source="DELUCIA, M" target="MONTUORI, M"/>
+<edge source="DELUCIA, M" target="PIETRONERO, L"/>
+<edge source="DEMENEZES, M" target="MOUKARZEL, C"/>
+<edge source="DEMENEZES, M" target="PENNA, T"/>
+<edge source="DEMOURA, A" target="GREBOGI, C"/>
+<edge source="DEMOURA, A" target="LAI, Y"/>
+<edge source="DEMOURA, A" target="MOTTER, A"/>
+<edge source="DENEUBOURG, J" target="GAUTRAIS, J"/>
+<edge source="DENEUBOURG, J" target="KUNTZ, P"/>
+<edge source="DENEUBOURG, J" target="SOLE, R"/>
+<edge source="DENEUBOURG, J" target="THERAULAZ, G"/>
+<edge source="DENEUBOURG, J" target="VALVERDE, S"/>
+<edge source="DERENYI, I" target="FARKAS, I"/>
+<edge source="DERENYI, I" target="JEONG, H"/>
+<edge source="DERENYI, I" target="NEDA, Z"/>
+<edge source="DERENYI, I" target="OLTVAI, Z"/>
+<edge source="DERENYI, I" target="RAVASZ, E"/>
+<edge source="DERENYI, I" target="SCHUBERT, A"/>
+<edge source="DERENYI, I" target="VICSEK, T"/>
+<edge source="DIAZGUILERA, A" target="GIRALT, F"/>
+<edge source="DIAZGUILERA, A" target="GLEISER, P"/>
+<edge source="DIAZGUILERA, A" target="GUARDIOLA, X"/>
+<edge source="DIAZGUILERA, A" target="GUIMERA, R"/>
+<edge source="DIAZGUILERA, A" target="LLAS, M"/>
+<edge source="DIAZGUILERA, A" target="LOUIS, E"/>
+<edge source="DIAZGUILERA, A" target="PASTORSATORRAS, R"/>
+<edge source="DIAZGUILERA, A" target="PEREZ, C"/>
+<edge source="DIAZGUILERA, A" target="RUBI, M"/>
+<edge source="DIAZGUILERA, A" target="VEGAREDONDO, F"/>
+<edge source="DIAZGUILERA, A" target="VRAGOVIC, I"/>
+<edge source="DICKMAN, R" target="MARRO, J"/>
+<edge source="DIGARBO, A" target="MEUCCI, R"/>
+<edge source="DOBRIN, R" target="OLTVAI, Z"/>
+<edge source="DODDS, P" target="MUHAMAD, R"/>
+<edge source="DODDS, P" target="NEWMAN, M"/>
+<edge source="DODDS, P" target="ROTHMAN, D"/>
+<edge source="DODDS, P" target="SABEL, C"/>
+<edge source="DODDS, P" target="WATTS, D"/>
+<edge source="DONETTI, L" target="MUNOZ, M"/>
+<edge source="DOROGOVTSEV, S" target="GOLTSEV, A"/>
+<edge source="DOROGOVTSEV, S" target="MENDES, J"/>
+<edge source="DOROGOVTSEV, S" target="PASTORSATORRAS, R"/>
+<edge source="DOROGOVTSEV, S" target="RAMASCO, J"/>
+<edge source="DOROGOVTSEV, S" target="SAMUKHIN, A"/>
+<edge source="DOVIDIO, F" target="MARODI, M"/>
+<edge source="DOVIDIO, F" target="VICSEK, T"/>
+<edge source="DUNNE, J" target="MARTINEZ, N"/>
+<edge source="DUNNE, J" target="WILLIAMS, R"/>
+<edge source="ECHENIQUE, P" target="GOMEZGARDENES, J"/>
+<edge source="ECHENIQUE, P" target="MORENO, Y"/>
+<edge source="ECHENIQUE, P" target="VAZQUEZ, A"/>
+<edge source="EDLING, C" target="HOLME, P"/>
+<edge source="EDLING, C" target="LILJEROS, F"/>
+<edge source="EDLING, C" target="STANLEY, H"/>
+<edge source="EREZ, K" target="HAVLIN, S"/>
+<edge source="ERGUN, G" target="RODGERS, G"/>
+<edge source="ERIKSEN, K" target="MASLOV, S"/>
+<edge source="ERIKSEN, K" target="SIMONSEN, I"/>
+<edge source="ERIKSEN, K" target="SNEPPEN, K"/>
+<edge source="FARKAS, I" target="JEONG, H"/>
+<edge source="FARKAS, I" target="NEDA, Z"/>
+<edge source="FARKAS, I" target="OLTVAI, Z"/>
+<edge source="FARKAS, I" target="RAVASZ, E"/>
+<edge source="FARKAS, I" target="SCHUBERT, A"/>
+<edge source="FARKAS, I" target="VICSEK, T"/>
+<edge source="FEDROFF, N" target="HOLTER, N"/>
+<edge source="FEDROFF, N" target="MARITAN, A"/>
+<edge source="FEDROFF, N" target="MITRA, M"/>
+<edge source="FERRERICANCHO, R" target="JANSSEN, C"/>
+<edge source="FERRERICANCHO, R" target="KOHLER, R"/>
+<edge source="FERRERICANCHO, R" target="SOLE, R"/>
+<edge source="FERRERICANCHO, R" target="VALVERDE, S"/>
+<edge source="FINK, K" target="JOHNSON, G"/>
+<edge source="FINK, K" target="PECORA, L"/>
+<edge source="FLAKE, G" target="GILES, C"/>
+<edge source="FLAKE, G" target="GLOVER, E"/>
+<edge source="FLAKE, G" target="LAWRENCE, S"/>
+<edge source="FLAKE, G" target="PENNOCK, D"/>
+<edge source="FLAMMINI, A" target="MARITAN, A"/>
+<edge source="FLAMMINI, A" target="VAZQUEZ, A"/>
+<edge source="FLAMMINI, A" target="VESPIGNANI, A"/>
+<edge source="FLORIA, L" target="GOMEZGARDENES, J"/>
+<edge source="FLORIA, L" target="MORENO, Y"/>
+<edge source="FORREST, S" target="NEWMAN, M"/>
+<edge source="FORTUNA, L" target="FRASCA, M"/>
+<edge source="FORTUNA, L" target="LAROSA, M"/>
+<edge source="FORTUNA, L" target="SPATA, A"/>
+<edge source="FORTUNA, L" target="STAGNI, C"/>
+<edge source="FORTUNA, L" target="USAI, L"/>
+<edge source="FORTUNATO, S" target="LATORA, V"/>
+<edge source="FORTUNATO, S" target="MARCHIORI, M"/>
+<edge source="FORTUNATO, S" target="STAUFFER, D"/>
+<edge source="FRANCESCHI, C" target="LATORA, V"/>
+<edge source="FRANCESCHI, C" target="MARCHIORI, M"/>
+<edge source="FRANCESCHI, C" target="REMONDINI, D"/>
+<edge source="FRANCESCHI, C" target="TIERI, P"/>
+<edge source="FRANCESCHI, C" target="VALENSIN, S"/>
+<edge source="FRASCA, M" target="LAROSA, M"/>
+<edge source="FRASCA, M" target="SPATA, A"/>
+<edge source="FRASCA, M" target="STAGNI, C"/>
+<edge source="FRASCA, M" target="USAI, L"/>
+<edge source="FRAUENFELDER, H" target="TOROCZKAI, Z"/>
+<edge source="FREUND, H" target="KURTHS, J"/>
+<edge source="FREUND, H" target="PIKOVSKY, A"/>
+<edge source="FREUND, H" target="ROSENBLUM, M"/>
+<edge source="FREUND, H" target="SCHNITZLER, A"/>
+<edge source="FREUND, H" target="TASS, P"/>
+<edge source="FREUND, H" target="VOLKMANN, J"/>
+<edge source="FREUND, H" target="WEULE, M"/>
+<edge source="FRONCZAK, A" target="FRONCZAK, P"/>
+<edge source="FRONCZAK, A" target="HOLYST, J"/>
+<edge source="FRONCZAK, A" target="JEDYNAK, M"/>
+<edge source="FRONCZAK, A" target="SIENKIEWICZ, J"/>
+<edge source="FRONCZAK, P" target="HOLYST, J"/>
+<edge source="GARCIAFERNANDEZ, J" target="SALAZARCIUDAD, I"/>
+<edge source="GARCIAFERNANDEZ, J" target="SOLE, R"/>
+<edge source="GARLASCHELLI, D" target="LOFFREDO, M"/>
+<edge source="GARLASCHELLI, D" target="PIETRONERO, L"/>
+<edge source="GARLASCHELLI, D" target="SERVEDIO, V"/>
+<edge source="GARRIDO, P" target="MARRO, J"/>
+<edge source="GARRIDO, P" target="MUNOZ, M"/>
+<edge source="GARRIDO, P" target="TORRES, J"/>
+<edge source="GASTNER, M" target="NEWMAN, M"/>
+<edge source="GAUTRAIS, J" target="KUNTZ, P"/>
+<edge source="GAUTRAIS, J" target="SOLE, R"/>
+<edge source="GAUTRAIS, J" target="THERAULAZ, G"/>
+<edge source="GAUTRAIS, J" target="VALVERDE, S"/>
+<edge source="GHIM, C" target="GOH, K"/>
+<edge source="GHIM, C" target="KAHNG, B"/>
+<edge source="GHIM, C" target="KIM, D"/>
+<edge source="GHOSHAL, G" target="HOLME, P"/>
+<edge source="GHOSHAL, G" target="MOORE, C"/>
+<edge source="GHOSHAL, G" target="NEWMAN, M"/>
+<edge source="GIACOMETTI, A" target="MARITAN, A"/>
+<edge source="GIACOMETTI, A" target="RIGON, R"/>
+<edge source="GIACOMETTI, A" target="RINALDO, A"/>
+<edge source="GIACOMETTI, A" target="RODRIGUEZITURBE, I"/>
+<edge source="GILES, C" target="GLOVER, E"/>
+<edge source="GILES, C" target="LAWRENCE, S"/>
+<edge source="GILES, C" target="PENNOCK, D"/>
+<edge source="GIRALT, F" target="GUIMERA, R"/>
+<edge source="GIRVAN, M" target="JIN, E"/>
+<edge source="GIRVAN, M" target="NEWMAN, M"/>
+<edge source="GLEISER, P" target="GUIMERA, R"/>
+<edge source="GLOVER, E" target="LAWRENCE, S"/>
+<edge source="GLOVER, E" target="PENNOCK, D"/>
+<edge source="GOH, K" target="JEONG, H"/>
+<edge source="GOH, K" target="KAHNG, B"/>
+<edge source="GOH, K" target="KIM, D"/>
+<edge source="GOH, K" target="KIM, J"/>
+<edge source="GOH, K" target="LEE, D"/>
+<edge source="GOH, K" target="OH, E"/>
+<edge source="GOLDING, I" target="SEGEV, R"/>
+<edge source="GOLDING, I" target="SHEFI, O"/>
+<edge source="GOLTSEV, A" target="MENDES, J"/>
+<edge source="GOMEZ, J" target="MORENO, Y"/>
+<edge source="GOMEZ, J" target="PACHECO, A"/>
+<edge source="GOMEZGARDENES, J" target="MORENO, Y"/>
+<edge source="GOMEZGARDENES, J" target="VAZQUEZ, A"/>
+<edge source="GONDRAN, B" target="GUICHARD, E"/>
+<edge source="GONZALES, M" target="HERRMANN, H"/>
+<edge source="GONZALES, M" target="SOUSA, A"/>
+<edge source="GORMAN, S" target="KULKARNI, R"/>
+<edge source="GREBOGI, C" target="MOTTER, A"/>
+<edge source="GROSS, J" target="HAMALAINEN, M"/>
+<edge source="GROSS, J" target="KUJALA, J"/>
+<edge source="GROSS, J" target="SALMELIN, R"/>
+<edge source="GROSS, J" target="SCHNITZLER, A"/>
+<edge source="GROSS, J" target="TIMMERMANN, L"/>
+<edge source="GUARDIOLA, X" target="LLAS, M"/>
+<edge source="GUARDIOLA, X" target="PEREZ, C"/>
+<edge source="GUIMERA, R" target="MOSSA, S"/>
+<edge source="GUIMERA, R" target="TURTSCHI, A"/>
+<edge source="GUIMERA, R" target="VEGAREDONDO, F"/>
+<edge source="HAMALAINEN, M" target="HARI, R"/>
+<edge source="HAMALAINEN, M" target="ILMONIEMI, R"/>
+<edge source="HAMALAINEN, M" target="KNUUTILA, J"/>
+<edge source="HAMALAINEN, M" target="KUJALA, J"/>
+<edge source="HAMALAINEN, M" target="LOUNASMAA, O"/>
+<edge source="HAMALAINEN, M" target="SALMELIN, R"/>
+<edge source="HAMALAINEN, M" target="SCHNITZLER, A"/>
+<edge source="HAMALAINEN, M" target="TIMMERMANN, L"/>
+<edge source="HAN, S" target="HOLME, P"/>
+<edge source="HAN, S" target="JEONG, H"/>
+<edge source="HAN, S" target="KIM, B"/>
+<edge source="HAN, S" target="YOON, C"/>
+<edge source="HARI, R" target="ILMONIEMI, R"/>
+<edge source="HARI, R" target="KNUUTILA, J"/>
+<edge source="HARI, R" target="LOUNASMAA, O"/>
+<edge source="HAVLIN, S" target="MAKSE, H"/>
+<edge source="HAVLIN, S" target="ROZENFELD, A"/>
+<edge source="HAVLIN, S" target="SCHWARTZ, N"/>
+<edge source="HAVLIN, S" target="SONG, C"/>
+<edge source="HEAGY, J" target="PECORA, L"/>
+<edge source="HENGARTNER, N" target="KORNISS, G"/>
+<edge source="HENGARTNER, N" target="KOZMA, B"/>
+<edge source="HENGARTNER, N" target="TOROCZKAI, Z"/>
+<edge source="HENTSCHEL, H" target="HWANG, D"/>
+<edge source="HENTSCHEL, H" target="MANCINI, H"/>
+<edge source="HENTSCHEL, H" target="MENDOZA, C"/>
+<edge source="HERRMANN, C" target="PROVERO, P"/>
+<edge source="HERRMANN, H" target="HONG, D"/>
+<edge source="HERRMANN, H" target="ROUX, S"/>
+<edge source="HERRMANN, H" target="SOUSA, A"/>
+<edge source="HERRMANN, H" target="STANLEY, H"/>
+<edge source="HOLME, P" target="HUSS, M"/>
+<edge source="HOLME, P" target="JEONG, H"/>
+<edge source="HOLME, P" target="KIM, B"/>
+<edge source="HOLME, P" target="LEICHT, E"/>
+<edge source="HOLME, P" target="LILJEROS, F"/>
+<edge source="HOLME, P" target="MINNHAGEN, P"/>
+<edge source="HOLME, P" target="NEWMAN, M"/>
+<edge source="HOLME, P" target="TRUSINA, A"/>
+<edge source="HOLME, P" target="YOON, C"/>
+<edge source="HOLTER, N" target="MARITAN, A"/>
+<edge source="HOLTER, N" target="MITRA, M"/>
+<edge source="HOLYST, J" target="JEDYNAK, M"/>
+<edge source="HOLYST, J" target="SIENKIEWICZ, J"/>
+<edge source="HOLYST, J" target="STAUFFER, D"/>
+<edge source="HONG, D" target="STANLEY, H"/>
+<edge source="HONG, H" target="KAHNG, B"/>
+<edge source="HONG, H" target="KIM, B"/>
+<edge source="HONG, H" target="OH, E"/>
+<edge source="HONG, H" target="PARK, H"/>
+<edge source="HONG, H" target="RHO, K"/>
+<edge source="HOPCROFT, J" target="KLEINBERG, J"/>
+<edge source="HOPCROFT, J" target="NEWMAN, M"/>
+<edge source="HOPCROFT, J" target="STROGATZ, S"/>
+<edge source="HOPPENSTEADT, F" target="LAI, Y"/>
+<edge source="HOPPENSTEADT, F" target="LIU, Z"/>
+<edge source="HOPPENSTEADT, F" target="MOTTER, A"/>
+<edge source="HOPPENSTEADT, F" target="NISHIKAWA, T"/>
+<edge source="HUSS, M" target="JEONG, H"/>
+<edge source="HWANG, D" target="LOPEZRUIZ, R"/>
+<edge source="HWANG, D" target="MORENO, Y"/>
+<edge source="ILMONIEMI, R" target="KNUUTILA, J"/>
+<edge source="ILMONIEMI, R" target="LOUNASMAA, O"/>
+<edge source="JANSSEN, C" target="SOLE, R"/>
+<edge source="JARISARAMAKI, J" target="KASKI, K"/>
+<edge source="JARISARAMAKI, J" target="KERTESZ, J"/>
+<edge source="JARISARAMAKI, J" target="ONNELA, J"/>
+<edge source="JEDYNAK, M" target="SIENKIEWICZ, J"/>
+<edge source="JEONG, H" target="KAHNG, B"/>
+<edge source="JEONG, H" target="KIM, B"/>
+<edge source="JEONG, H" target="KIM, D"/>
+<edge source="JEONG, H" target="MASON, S"/>
+<edge source="JEONG, H" target="NEDA, Z"/>
+<edge source="JEONG, H" target="OH, E"/>
+<edge source="JEONG, H" target="OLTVAI, Z"/>
+<edge source="JEONG, H" target="PARK, Y"/>
+<edge source="JEONG, H" target="PODANI, J"/>
+<edge source="JEONG, H" target="RAVASZ, E"/>
+<edge source="JEONG, H" target="RHO, K"/>
+<edge source="JEONG, H" target="SCHUBERT, A"/>
+<edge source="JEONG, H" target="SZATHMARY, E"/>
+<edge source="JEONG, H" target="TOMBOR, B"/>
+<edge source="JEONG, H" target="TU, Y"/>
+<edge source="JEONG, H" target="VICSEK, T"/>
+<edge source="JEONG, H" target="YOOK, S"/>
+<edge source="JEONG, H" target="YOON, C"/>
+<edge source="JIN, E" target="NEWMAN, M"/>
+<edge source="JOHNSON, G" target="PECORA, L"/>
+<edge source="JUNG, S" target="KAHNG, B"/>
+<edge source="JUNG, S" target="KIM, S"/>
+<edge source="KAHNG, B" target="KIM, D"/>
+<edge source="KAHNG, B" target="KIM, J"/>
+<edge source="KAHNG, B" target="KIM, S"/>
+<edge source="KAHNG, B" target="KRAPIVSKY, P"/>
+<edge source="KAHNG, B" target="LEE, D"/>
+<edge source="KAHNG, B" target="OH, E"/>
+<edge source="KAHNG, B" target="PARK, Y"/>
+<edge source="KAHNG, B" target="REDNER, S"/>
+<edge source="KAHNG, B" target="RHO, K"/>
+<edge source="KALAPALA, V" target="MOORE, C"/>
+<edge source="KALAPALA, V" target="SANWALANI, V"/>
+<edge source="KANTO, A" target="KASKI, K"/>
+<edge source="KANTO, A" target="KERTESZ, J"/>
+<edge source="KANTO, A" target="ONNELA, J"/>
+<edge source="KASKI, K" target="KERTESZ, J"/>
+<edge source="KASKI, K" target="LAHTINEN, J"/>
+<edge source="KASKI, K" target="ONNELA, J"/>
+<edge source="KEPLER, T" target="PASTORSATORRAS, R"/>
+<edge source="KEPLER, T" target="SMITH, E"/>
+<edge source="KEPLER, T" target="SOLE, R"/>
+<edge source="KERTESZ, J" target="LAHTINEN, J"/>
+<edge source="KERTESZ, J" target="ONNELA, J"/>
+<edge source="KERTESZ, J" target="STAUFFER, D"/>
+<edge source="KERTESZ, J" target="SZABO, G"/>
+<edge source="KIM, B" target="MINNHAGEN, P"/>
+<edge source="KIM, B" target="PARK, H"/>
+<edge source="KIM, B" target="TRUSINA, A"/>
+<edge source="KIM, B" target="YOON, C"/>
+<edge source="KIM, D" target="KIM, J"/>
+<edge source="KIM, D" target="LEE, D"/>
+<edge source="KIM, D" target="OH, E"/>
+<edge source="KIM, J" target="KRAPIVSKY, P"/>
+<edge source="KIM, J" target="REDNER, S"/>
+<edge source="KINNEY, R" target="LATORA, V"/>
+<edge source="KLEINBERG, J" target="KUMAR, S"/>
+<edge source="KLEINBERG, J" target="LAWRENCE, S"/>
+<edge source="KLEINBERG, J" target="NEWMAN, M"/>
+<edge source="KLEINBERG, J" target="RAGHAVAN, P"/>
+<edge source="KLEINBERG, J" target="RAJAGOPALAN, S"/>
+<edge source="KLEINBERG, J" target="STROGATZ, S"/>
+<edge source="KLEINBERG, J" target="TOMKINS, A"/>
+<edge source="KNUUTILA, J" target="LOUNASMAA, O"/>
+<edge source="KOHLER, R" target="SOLE, R"/>
+<edge source="KORNISS, G" target="KOZMA, B"/>
+<edge source="KORNISS, G" target="TOROCZKAI, Z"/>
+<edge source="KOVACS, B" target="OLTVAI, Z"/>
+<edge source="KOVACS, B" target="VICSEK, T"/>
+<edge source="KOZMA, B" target="TOROCZKAI, Z"/>
+<edge source="KRAPIVSKY, P" target="LEYVRAZ, F"/>
+<edge source="KRAPIVSKY, P" target="REDNER, S"/>
+<edge source="KRAPIVSKY, P" target="RODGERS, G"/>
+<edge source="KRAPIVSKY, P" target="VAZQUEZ, F"/>
+<edge source="KUJALA, J" target="SALMELIN, R"/>
+<edge source="KUJALA, J" target="SCHNITZLER, A"/>
+<edge source="KUJALA, J" target="TIMMERMANN, L"/>
+<edge source="KULKARNI, R" target="STROUD, D"/>
+<edge source="KUMAR, R" target="MAGHOUL, F"/>
+<edge source="KUMAR, R" target="RAGHAVAN, P"/>
+<edge source="KUMAR, R" target="RAJAGOPALAN, S"/>
+<edge source="KUMAR, R" target="SIVAKUMAR, D"/>
+<edge source="KUMAR, R" target="STATA, R"/>
+<edge source="KUMAR, R" target="TOMKINS, A"/>
+<edge source="KUMAR, R" target="UPFAL, E"/>
+<edge source="KUMAR, R" target="WIENER, J"/>
+<edge source="KUMAR, S" target="RAGHAVAN, P"/>
+<edge source="KUMAR, S" target="RAJAGOPALAN, S"/>
+<edge source="KUMAR, S" target="TOMKINS, A"/>
+<edge source="KUNTZ, P" target="SOLE, R"/>
+<edge source="KUNTZ, P" target="THERAULAZ, G"/>
+<edge source="KUNTZ, P" target="VALVERDE, S"/>
+<edge source="KURTHS, J" target="MANCINI, H"/>
+<edge source="KURTHS, J" target="MAZA, D"/>
+<edge source="KURTHS, J" target="MOTTER, A"/>
+<edge source="KURTHS, J" target="OSIPOV, G"/>
+<edge source="KURTHS, J" target="PARK, E"/>
+<edge source="KURTHS, J" target="PIKOVSKY, A"/>
+<edge source="KURTHS, J" target="ROSENBLUM, M"/>
+<edge source="KURTHS, J" target="SCHAFER, C"/>
+<edge source="KURTHS, J" target="SCHNITZLER, A"/>
+<edge source="KURTHS, J" target="TASS, P"/>
+<edge source="KURTHS, J" target="VALLADARES, D"/>
+<edge source="KURTHS, J" target="VOLKMANN, J"/>
+<edge source="KURTHS, J" target="WEULE, M"/>
+<edge source="KURTHS, J" target="ZAKS, M"/>
+<edge source="KURTHS, J" target="ZHOU, C"/>
+<edge source="LAI, Y" target="LIU, Z"/>
+<edge source="LAI, Y" target="MOTTER, A"/>
+<edge source="LAI, Y" target="NISHIKAWA, T"/>
+<edge source="LAI, Y" target="YE, N"/>
+<edge source="LAROSA, M" target="SPATA, A"/>
+<edge source="LAROSA, M" target="STAGNI, C"/>
+<edge source="LAROSA, M" target="USAI, L"/>
+<edge source="LATORA, V" target="MARCHIORI, M"/>
+<edge source="LATORA, V" target="PLUCHINO, A"/>
+<edge source="LATORA, V" target="PORTA, S"/>
+<edge source="LATORA, V" target="RAPISARDA, A"/>
+<edge source="LATORA, V" target="REMONDINI, D"/>
+<edge source="LATORA, V" target="TADIC, B"/>
+<edge source="LATORA, V" target="TIERI, P"/>
+<edge source="LATORA, V" target="VALENSIN, S"/>
+<edge source="LAWRENCE, S" target="PENNOCK, D"/>
+<edge source="LEICHT, E" target="NEWMAN, M"/>
+<edge source="LEONE, M" target="VAZQUEZ, A"/>
+<edge source="LEONE, M" target="VESPIGNANI, A"/>
+<edge source="LEONE, M" target="ZECCHINA, R"/>
+<edge source="LEYVRAZ, F" target="REDNER, S"/>
+<edge source="LILJEROS, F" target="STANLEY, H"/>
+<edge source="LILLO, F" target="MANTEGNA, R"/>
+<edge source="LINGJIANG, K" target="MUREN, L"/>
+<edge source="LINGJIANG, K" target="SOUSA, A"/>
+<edge source="LINGJIANG, K" target="YUSONG, T"/>
+<edge source="LIU, Z" target="YE, N"/>
+<edge source="LLAS, M" target="PEREZ, C"/>
+<edge source="LOPEZRUIZ, R" target="MORENO, Y"/>
+<edge source="LORETO, V" target="PARISI, D"/>
+<edge source="LORETO, V" target="RADICCHI, F"/>
+<edge source="LOUIS, E" target="VRAGOVIC, I"/>
+<edge source="LUSSEAU, D" target="NEWMAN, M"/>
+<edge source="MAGHOUL, F" target="RAGHAVAN, P"/>
+<edge source="MAGHOUL, F" target="RAJAGOPALAN, S"/>
+<edge source="MAGHOUL, F" target="STATA, R"/>
+<edge source="MAGHOUL, F" target="TOMKINS, A"/>
+<edge source="MAGHOUL, F" target="WIENER, J"/>
+<edge source="MAKSE, H" target="SONG, C"/>
+<edge source="MANCINI, H" target="MAZA, D"/>
+<edge source="MANCINI, H" target="MENDOZA, C"/>
+<edge source="MANCINI, H" target="VALLADARES, D"/>
+<edge source="MANCINI, H" target="VALLONE, A"/>
+<edge source="MANTEGNA, R" target="STANLEY, H"/>
+<edge source="MARCHIORI, M" target="RAPISARDA, A"/>
+<edge source="MARCHIORI, M" target="REMONDINI, D"/>
+<edge source="MARCHIORI, M" target="TIERI, P"/>
+<edge source="MARCHIORI, M" target="VALENSIN, S"/>
+<edge source="MARITAN, A" target="MITRA, M"/>
+<edge source="MARITAN, A" target="RIGON, R"/>
+<edge source="MARITAN, A" target="RINALDO, A"/>
+<edge source="MARITAN, A" target="RODRIGUEZITURBE, I"/>
+<edge source="MARITAN, A" target="VAZQUEZ, A"/>
+<edge source="MARITAN, A" target="VESPIGNANI, A"/>
+<edge source="MARODI, M" target="VICSEK, T"/>
+<edge source="MARRO, J" target="MUNOZ, M"/>
+<edge source="MARRO, J" target="TORRES, J"/>
+<edge source="MARTIN, M" target="NEWMAN, M"/>
+<edge source="MARTIN, M" target="SCHRAG, S"/>
+<edge source="MARTINEZ, N" target="WILLIAMS, R"/>
+<edge source="MASLOV, S" target="SIMONSEN, I"/>
+<edge source="MASLOV, S" target="SNEPPEN, K"/>
+<edge source="MASLOV, S" target="ZALIZNYAK, A"/>
+<edge source="MASON, S" target="OLTVAI, Z"/>
+<edge source="MATTHEWS, P" target="MIROLLO, R"/>
+<edge source="MATTHEWS, P" target="STROGATZ, S"/>
+<edge source="MAZA, D" target="VALLADARES, D"/>
+<edge source="MAZA, D" target="VALLONE, A"/>
+<edge source="MENDES, J" target="SAMUKHIN, A"/>
+<edge source="MEYERORTMANNS, H" target="STAUFFER, D"/>
+<edge source="MINNHAGEN, P" target="ROSVALL, M"/>
+<edge source="MINNHAGEN, P" target="SNEPPEN, K"/>
+<edge source="MINNHAGEN, P" target="TRUSINA, A"/>
+<edge source="MIROLLO, R" target="STROGATZ, S"/>
+<edge source="MONGRU, D" target="OLTVAI, Z"/>
+<edge source="MONGRU, D" target="RAVASZ, E"/>
+<edge source="MONGRU, D" target="SOMERA, A"/>
+<edge source="MONTOYA, J" target="SOLE, R"/>
+<edge source="MONTUORI, M" target="PIETRONERO, L"/>
+<edge source="MOORE, C" target="NEWMAN, M"/>
+<edge source="MOORE, C" target="SANWALANI, V"/>
+<edge source="MOORE, C" target="WATTS, D"/>
+<edge source="MORENO, Y" target="NEKOVEE, M"/>
+<edge source="MORENO, Y" target="PACHECO, A"/>
+<edge source="MORENO, Y" target="PASTORSATORRAS, R"/>
+<edge source="MORENO, Y" target="VAZQUEZ, A"/>
+<edge source="MORENO, Y" target="VAZQUEZPRADA, M"/>
+<edge source="MORENO, Y" target="VESPIGNANI, A"/>
+<edge source="MOSSA, S" target="STANLEY, H"/>
+<edge source="MOSSA, S" target="TURTSCHI, A"/>
+<edge source="MOTTER, A" target="NISHIKAWA, T"/>
+<edge source="MOTTER, A" target="ZHOU, C"/>
+<edge source="MOUKARZEL, C" target="PENNA, T"/>
+<edge source="MUCHA, P" target="NEWMAN, M"/>
+<edge source="MUCHA, P" target="PORTER, M"/>
+<edge source="MUCHA, P" target="WARMBRAND, C"/>
+<edge source="MUHAMAD, R" target="WATTS, D"/>
+<edge source="MUNOZ, M" target="TORRES, J"/>
+<edge source="MUREN, L" target="SOUSA, A"/>
+<edge source="MUREN, L" target="YUSONG, T"/>
+<edge source="NEDA, Z" target="OLTVAI, Z"/>
+<edge source="NEDA, Z" target="RAVASZ, E"/>
+<edge source="NEDA, Z" target="SCHUBERT, A"/>
+<edge source="NEDA, Z" target="VICSEK, T"/>
+<edge source="NEKOVEE, M" target="PACHECO, A"/>
+<edge source="NEKOVEE, M" target="VESPIGNANI, A"/>
+<edge source="NEWMAN, M" target="PARK, J"/>
+<edge source="NEWMAN, M" target="PORTER, M"/>
+<edge source="NEWMAN, M" target="SCHRAG, S"/>
+<edge source="NEWMAN, M" target="SNEPPEN, K"/>
+<edge source="NEWMAN, M" target="SOLE, R"/>
+<edge source="NEWMAN, M" target="STAUFFER, D"/>
+<edge source="NEWMAN, M" target="STROGATZ, S"/>
+<edge source="NEWMAN, M" target="WARMBRAND, C"/>
+<edge source="NEWMAN, M" target="WATTS, D"/>
+<edge source="OH, E" target="RHO, K"/>
+<edge source="OLTVAI, Z" target="PODANI, J"/>
+<edge source="OLTVAI, Z" target="RAVASZ, E"/>
+<edge source="OLTVAI, Z" target="SCHUBERT, A"/>
+<edge source="OLTVAI, Z" target="SOMERA, A"/>
+<edge source="OLTVAI, Z" target="SZATHMARY, E"/>
+<edge source="OLTVAI, Z" target="TOMBOR, B"/>
+<edge source="OLTVAI, Z" target="VICSEK, T"/>
+<edge source="OLTVAI, Z" target="WUCHTY, S"/>
+<edge source="OLTVAI, Z" target="YOOK, S"/>
+<edge source="OSIPOV, G" target="PIKOVSKY, A"/>
+<edge source="OSIPOV, G" target="ROSENBLUM, M"/>
+<edge source="OSIPOV, G" target="VALLADARES, D"/>
+<edge source="OSIPOV, G" target="ZHOU, C"/>
+<edge source="PACHECO, A" target="VAZQUEZPRADA, M"/>
+<edge source="PARISI, D" target="RADICCHI, F"/>
+<edge source="PARK, E" target="ROSENBLUM, M"/>
+<edge source="PARK, E" target="ZAKS, M"/>
+<edge source="PASTORSATORRAS, R" target="RAMASCO, J"/>
+<edge source="PASTORSATORRAS, R" target="RUBI, M"/>
+<edge source="PASTORSATORRAS, R" target="SMITH, E"/>
+<edge source="PASTORSATORRAS, R" target="SOLE, R"/>
+<edge source="PASTORSATORRAS, R" target="VAZQUEZ, A"/>
+<edge source="PASTORSATORRAS, R" target="VESPIGNANI, A"/>
+<edge source="PECORA, L" target="PELAEZ, A"/>
+<edge source="PIKOVSKY, A" target="ROSENBLUM, M"/>
+<edge source="PIKOVSKY, A" target="RUDZICK, O"/>
+<edge source="PIKOVSKY, A" target="SCHNITZLER, A"/>
+<edge source="PIKOVSKY, A" target="TASS, P"/>
+<edge source="PIKOVSKY, A" target="VOLKMANN, J"/>
+<edge source="PIKOVSKY, A" target="WEULE, M"/>
+<edge source="PLUCHINO, A" target="RAPISARDA, A"/>
+<edge source="PODANI, J" target="SZATHMARY, E"/>
+<edge source="PODANI, J" target="TOMBOR, B"/>
+<edge source="PORTER, M" target="WARMBRAND, C"/>
+<edge source="RAGHAVAN, P" target="RAJAGOPALAN, S"/>
+<edge source="RAGHAVAN, P" target="SIVAKUMAR, D"/>
+<edge source="RAGHAVAN, P" target="STATA, R"/>
+<edge source="RAGHAVAN, P" target="TOMKINS, A"/>
+<edge source="RAGHAVAN, P" target="UPFAL, E"/>
+<edge source="RAGHAVAN, P" target="WIENER, J"/>
+<edge source="RAJAGOPALAN, S" target="SIVAKUMAR, D"/>
+<edge source="RAJAGOPALAN, S" target="STATA, R"/>
+<edge source="RAJAGOPALAN, S" target="TOMKINS, A"/>
+<edge source="RAJAGOPALAN, S" target="UPFAL, E"/>
+<edge source="RAJAGOPALAN, S" target="WIENER, J"/>
+<edge source="RAPISARDA, A" target="TADIC, B"/>
+<edge source="RAVASZ, E" target="SCHUBERT, A"/>
+<edge source="RAVASZ, E" target="SOMERA, A"/>
+<edge source="RAVASZ, E" target="VICSEK, T"/>
+<edge source="REDNER, S" target="RODGERS, G"/>
+<edge source="REDNER, S" target="VAZQUEZ, F"/>
+<edge source="REMONDINI, D" target="TIERI, P"/>
+<edge source="REMONDINI, D" target="VALENSIN, S"/>
+<edge source="RIGON, R" target="RINALDO, A"/>
+<edge source="RIGON, R" target="RODRIGUEZITURBE, I"/>
+<edge source="RINALDO, A" target="RODRIGUEZITURBE, I"/>
+<edge source="RODGERS, G" target="TADIC, B"/>
+<edge source="RODGERS, G" target="THURNER, S"/>
+<edge source="ROSENBLUM, M" target="SCHAFER, C"/>
+<edge source="ROSENBLUM, M" target="SCHNITZLER, A"/>
+<edge source="ROSENBLUM, M" target="TASS, P"/>
+<edge source="ROSENBLUM, M" target="VOLKMANN, J"/>
+<edge source="ROSENBLUM, M" target="WEULE, M"/>
+<edge source="ROSENBLUM, M" target="ZAKS, M"/>
+<edge source="ROSVALL, M" target="SNEPPEN, K"/>
+<edge source="ROSVALL, M" target="TRUSINA, A"/>
+<edge source="SABEL, C" target="WATTS, D"/>
+<edge source="SALAZARCIUDAD, I" target="SOLE, R"/>
+<edge source="SALMELIN, R" target="SCHNITZLER, A"/>
+<edge source="SALMELIN, R" target="TIMMERMANN, L"/>
+<edge source="SCALA, A" target="STANLEY, H"/>
+<edge source="SCHNITZLER, A" target="TASS, P"/>
+<edge source="SCHNITZLER, A" target="TIMMERMANN, L"/>
+<edge source="SCHNITZLER, A" target="VOLKMANN, J"/>
+<edge source="SCHNITZLER, A" target="WEULE, M"/>
+<edge source="SCHUBERT, A" target="VICSEK, T"/>
+<edge source="SEGEV, R" target="SHEFI, O"/>
+<edge source="SHOCHET, O" target="VICSEK, T"/>
+<edge source="SIMONSEN, I" target="SNEPPEN, K"/>
+<edge source="SIVAKUMAR, D" target="TOMKINS, A"/>
+<edge source="SIVAKUMAR, D" target="UPFAL, E"/>
+<edge source="SMITH, E" target="SOLE, R"/>
+<edge source="SNEPPEN, K" target="TRUSINA, A"/>
+<edge source="SNEPPEN, K" target="ZALIZNYAK, A"/>
+<edge source="SOFFER, S" target="VAZQUEZ, A"/>
+<edge source="SOLE, R" target="THERAULAZ, G"/>
+<edge source="SOLE, R" target="VALVERDE, S"/>
+<edge source="SOUSA, A" target="YUSONG, T"/>
+<edge source="STAGNI, C" target="USAI, L"/>
+<edge source="STATA, R" target="TOMKINS, A"/>
+<edge source="STATA, R" target="WIENER, J"/>
+<edge source="STROGATZ, S" target="WATTS, D"/>
+<edge source="STROGATZ, S" target="YEUNG, M"/>
+<edge source="SZATHMARY, E" target="TOMBOR, B"/>
+<edge source="TADIC, B" target="THURNER, S"/>
+<edge source="TASS, P" target="VOLKMANN, J"/>
+<edge source="TASS, P" target="WEULE, M"/>
+<edge source="THERAULAZ, G" target="VALVERDE, S"/>
+<edge source="TIERI, P" target="VALENSIN, S"/>
+<edge source="TOMKINS, A" target="UPFAL, E"/>
+<edge source="TOMKINS, A" target="WIENER, J"/>
+<edge source="TU, Y" target="YOOK, S"/>
+<edge source="VALLADARES, D" target="ZHOU, C"/>
+<edge source="VAZQUEZ, A" target="VESPIGNANI, A"/>
+<edge source="VAZQUEZ, A" target="WEIGT, M"/>
+<edge source="VAZQUEZ, A" target="ZECCHINA, R"/>
+<edge source="VESPIGNANI, A" target="VILONE, D"/>
+<edge source="VESPIGNANI, A" target="ZECCHINA, R"/>
+<edge source="VOLKMANN, J" target="WEULE, M"/>
+</graph></graphml>

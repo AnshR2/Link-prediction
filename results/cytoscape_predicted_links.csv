@@ -1,0 +1,81 @@
+source,target,algorithm,rank,score,Common_Neighbors
+"ALBERT, R","PODANI, J",Common Neighbors,1,4.0,4
+"ALBERT, R","SZATHMARY, E",Common Neighbors,2,4.0,4
+"BRODER, A","SIVAKUMAR, D",Common Neighbors,3,4.0,4
+"BRODER, A","UPFAL, E",Common Neighbors,4,4.0,4
+"GIRALT, F","GLEISER, P",Common Neighbors,5,4.0,4
+"HONG, H","JEONG, H",Common Neighbors,6,4.0,4
+"MAGHOUL, F","SIVAKUMAR, D",Common Neighbors,7,4.0,4
+"MAGHOUL, F","UPFAL, E",Common Neighbors,8,4.0,4
+"SIVAKUMAR, D","STATA, R",Common Neighbors,9,4.0,4
+"SIVAKUMAR, D","WIENER, J",Common Neighbors,10,4.0,4
+"STATA, R","UPFAL, E",Common Neighbors,11,4.0,4
+"UPFAL, E","WIENER, J",Common Neighbors,12,4.0,4
+"ALBERT, R","DERENYI, I",Common Neighbors,13,3.0,3
+"ALBERT, R","FARKAS, I",Common Neighbors,14,3.0,3
+"ALBERT, R","MASON, S",Common Neighbors,15,3.0,3
+"ALBERT, R","NEDA, Z",Common Neighbors,16,3.0,3
+"ALBERT, R","RAVASZ, E",Common Neighbors,17,3.0,3
+"ALBERT, R","SCHUBERT, A",Common Neighbors,18,3.0,3
+"ALBERT, R","VICSEK, T",Common Neighbors,19,3.0,3
+"ALBERT, R","YOOK, S",Common Neighbors,20,3.0,3
+"GIRALT, F","GLEISER, P",Jaccard,1,1.0,4
+"EREZ, K","ROZENFELD, A",Jaccard,2,1.0,3
+"GHIM, C","LEE, D",Jaccard,3,1.0,3
+"GOLTSEV, A","SAMUKHIN, A",Jaccard,4,1.0,2
+"GOMEZ, J","VAZQUEZPRADA, M",Jaccard,5,1.0,2
+"JANSSEN, C","KOHLER, R",Jaccard,6,1.0,2
+"LEYVRAZ, F","VAZQUEZ, F",Jaccard,7,1.0,2
+"MUHAMAD, R","SABEL, C",Jaccard,8,1.0,2
+"DARBYDOWMAN, K","ERGUN, G",Jaccard,9,1.0,1
+"DEARCANGELIS, L","ROUX, S",Jaccard,10,1.0,1
+"GASTNER, M","LUSSEAU, D",Jaccard,11,1.0,1
+"GASTNER, M","PARK, J",Jaccard,12,1.0,1
+"LUSSEAU, D","PARK, J",Jaccard,13,1.0,1
+"CHAKRABORTI, A","JARISARAMAKI, J",Jaccard,14,0.75,3
+"COETZEE, F","GLOVER, E",Jaccard,15,0.75,3
+"COETZEE, F","PENNOCK, D",Jaccard,16,0.75,3
+"EREZ, K","SCHWARTZ, N",Jaccard,17,0.75,3
+"JARISARAMAKI, J","KANTO, A",Jaccard,18,0.75,3
+"MASON, S","YOOK, S",Jaccard,19,0.75,3
+"ROZENFELD, A","SCHWARTZ, N",Jaccard,20,0.75,3
+"BARRAT, A","VAZQUEZ, A",Adamic-Adar,1,2.19088759564777,3
+"HONG, H","JEONG, H",Adamic-Adar,2,2.092675810588932,4
+"GIRALT, F","GLEISER, P",Adamic-Adar,3,1.862756312366132,4
+"COETZEE, F","GLOVER, E",Adamic-Adar,4,1.800780495670471,3
+"COETZEE, F","PENNOCK, D",Adamic-Adar,5,1.800780495670471,3
+"BRODER, A","SIVAKUMAR, D",Adamic-Adar,6,1.7062167875861576,4
+"BRODER, A","UPFAL, E",Adamic-Adar,7,1.7062167875861576,4
+"MAGHOUL, F","SIVAKUMAR, D",Adamic-Adar,8,1.7062167875861576,4
+"MAGHOUL, F","UPFAL, E",Adamic-Adar,9,1.7062167875861576,4
+"SIVAKUMAR, D","STATA, R",Adamic-Adar,10,1.7062167875861576,4
+"SIVAKUMAR, D","WIENER, J",Adamic-Adar,11,1.7062167875861576,4
+"STATA, R","UPFAL, E",Adamic-Adar,12,1.7062167875861576,4
+"UPFAL, E","WIENER, J",Adamic-Adar,13,1.7062167875861576,4
+"CHAKRABORTI, A","JARISARAMAKI, J",Adamic-Adar,14,1.613740043014111,3
+"JARISARAMAKI, J","KANTO, A",Adamic-Adar,15,1.613740043014111,3
+"BARABASI, A","EREZ, K",Adamic-Adar,16,1.5971196000654824,3
+"BARABASI, A","ROZENFELD, A",Adamic-Adar,17,1.5971196000654824,3
+"EREZ, K","ROZENFELD, A",Adamic-Adar,18,1.5971196000654824,3
+"EREZ, K","SCHWARTZ, N",Adamic-Adar,19,1.5971196000654824,3
+"ROZENFELD, A","SCHWARTZ, N",Adamic-Adar,20,1.5971196000654824,3
+"BARABASI, A","NEWMAN, M",Preferential Attachment,1,918.0,0
+"JEONG, H","NEWMAN, M",Preferential Attachment,2,729.0,1
+"BARABASI, A","BOCCALETTI, S",Preferential Attachment,3,646.0,0
+"BARABASI, A","KURTHS, J",Preferential Attachment,4,612.0,0
+"BARABASI, A","SOLE, R",Preferential Attachment,5,578.0,0
+"NEWMAN, M","OLTVAI, Z",Preferential Attachment,6,567.0,0
+"BOCCALETTI, S","JEONG, H",Preferential Attachment,7,513.0,0
+"BOCCALETTI, S","NEWMAN, M",Preferential Attachment,8,513.0,0
+"BARABASI, A","LATORA, V",Preferential Attachment,9,510.0,1
+"BARABASI, A","DIAZGUILERA, A",Preferential Attachment,10,510.0,0
+"BARABASI, A","PASTORSATORRAS, R",Preferential Attachment,11,510.0,0
+"JEONG, H","KURTHS, J",Preferential Attachment,12,486.0,0
+"KURTHS, J","NEWMAN, M",Preferential Attachment,13,486.0,0
+"BARABASI, A","HOLME, P",Preferential Attachment,14,476.0,1
+"BARABASI, A","KAHNG, B",Preferential Attachment,15,476.0,1
+"BARABASI, A","MORENO, Y",Preferential Attachment,16,476.0,0
+"BARABASI, A","VESPIGNANI, A",Preferential Attachment,17,476.0,0
+"JEONG, H","SOLE, R",Preferential Attachment,18,459.0,0
+"NEWMAN, M","VICSEK, T",Preferential Attachment,19,432.0,0
+"BARABASI, A","CRUCITTI, P",Preferential Attachment,20,408.0,1
